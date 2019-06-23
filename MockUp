@@ -1,0 +1,6 @@
+Mockup Project Structure
+build/ : Contains all combined, optimized, and minimized JavaScript code, as well as compiled CSS (Less) and media files
+
+docs/ : Documentation files built with make docs
+
+js/ : Contains all of the modularized JavaScript code
