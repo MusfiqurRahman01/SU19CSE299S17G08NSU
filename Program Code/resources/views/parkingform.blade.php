@@ -11,6 +11,7 @@
     <title>NSU PARKING REGISTRATION FORM</title>
   </head>
   <body>
+    <h1>PARKING REGISTRATION FORM </h1>
 
     <form>
  <div class="form-group">
@@ -20,9 +21,17 @@
  </div>
 
  <div class="form-group">
-  <label for="formGroupExampleInput">Applicant's Name</label>
-  <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Name of applicant">
+  <label for="formGroupApplicant'sNameInput">Applicant's Name</label>
+  <input type="text" class="form-control" id="formGroupApplicant'sNameInput" placeholder="Name of applicant">
 </div>
+
+<div class="form-group">
+ <label for="formGroupIDNoInput">ID No</label>
+ <input type="text" class="form-control" id="formGroupIDNoInput" placeholder="Student/Employee ID">
+</div>
+
+
+
 
 
 </form>
