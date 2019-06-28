@@ -18,7 +18,13 @@
    <input type="date" class="form-control" id="exampleInputdate"  placeholder="Enter date">
 
  </div>
- 
+
+ <div class="form-group">
+  <label for="formGroupExampleInput">Applicant's Name</label>
+  <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Name of applicant">
+</div>
+
+
 </form>
 
 
