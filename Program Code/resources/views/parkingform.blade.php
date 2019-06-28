@@ -30,6 +30,11 @@
  <input type="text" class="form-control" id="formGroupIDNoInput" placeholder="Student/Employee ID">
 </div>
 
+<div class="form-group">
+ <label for="formGroupDesignationInput">Designation</label>
+ <input type="text" class="form-control" id="formGroupDesignationInput" placeholder="Designation of Student/Employee">
+</div>
+
 
 
 
