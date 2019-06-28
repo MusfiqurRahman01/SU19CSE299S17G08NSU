@@ -17,7 +17,14 @@
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <div class="container">
                             <a class="navbar-brand" href="#">NPS</a>
+                            <button class="navbar-toggler" data-toggle="collapse" data-target="#myNav">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse" id="myNav">
+                                
+                            </div>
                     </div>
+
                 </nav>
 
                 
