@@ -11,7 +11,20 @@
     <title>NSU PARKING REGISTRATION FORM</title>
   </head>
   <body>
-    <h1>Hello, NSU!</h1>
+
+    <form>
+ <div class="form-group">
+   <label for="exampleInputdate">Date:</label>
+   <input type="date" class="form-control" id="exampleInputdate"  placeholder="Enter date">
+
+ </div>
+ 
+</form>
+
+
+
+
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
