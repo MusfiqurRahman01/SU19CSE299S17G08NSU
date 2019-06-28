@@ -21,7 +21,10 @@
                                 <span class="navbar-toggler-icon"></span>
                             </button>
                             <div class="collapse navbar-collapse" id="myNav">
-                                
+                                <a href="#" class="nav-item nav-link">Home</a>
+                                <a href="#" class="nav-item nav-link">About Us</a>
+                                <a href="#" class="nav-item nav-link">Contact Us</a>
+                                <a href="#" class="nav-item nav-link">Log In</a>
                             </div>
                     </div>
 
