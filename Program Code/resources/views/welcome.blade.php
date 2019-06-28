@@ -66,13 +66,14 @@
     <body>
         
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Laravel
-                </div>
+            
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <div class="container">
+                            <a class="navbar-brand" href="#">NPS</a>
+                    </div>
+                </nav>
 
                 
-            </div>
-        </div>
+            
     </body>
 </html>
