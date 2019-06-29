@@ -59,10 +59,6 @@
    </label>
 </div>
 
-
-
-
-
 <div class="form-check">
 
   <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
@@ -79,6 +75,12 @@
       </label>
     </div>
 
+</div>
+
+
+<div class="form-group">
+ <label for="formGroupVehicleInput">Vehicle Reg. No</label>
+ <input type="text" class="form-control" id="formGroupDepartmentInput" placeholder="Registration number of vehicle to be parked">
 </div>
 
 
