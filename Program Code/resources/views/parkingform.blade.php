@@ -85,8 +85,14 @@
 </div>
 
 <div class="form-group">
- <label for="formGroupVehicleInput">Car Info</label>
+ <label for="formGroupCarInfoInput">Car Info</label>
  <input class="form-control form-control-lg" type="text" placeholder="e.g model, color, etc">
+</div>
+
+
+<div class="form-group">
+ <label for="formGroupAddressInput">Address</label>
+ <input class="form-control form-control-lg" type="text" placeholder="Details address of Student/Employee/Vendor including mobile number">
 </div>
 
 
