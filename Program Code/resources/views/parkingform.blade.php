@@ -134,35 +134,12 @@
 
 </div>
 
+
 <p>Signature of the Applicant<input type="file" class="form-control-file" id="exampleFormControlFile1"></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
+<button type="button" class="btn btn-primary">Submit Form</button>
 
 </form>
+</div>
 
 
 
