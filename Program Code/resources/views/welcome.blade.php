@@ -4,75 +4,42 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Parking System</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+        <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
 
-        <!-- Styles -->
-        <style>
-            html, body {
-                background-color: #fff;
-                color: #636b6f;
-                font-family: 'Nunito', sans-serif;
-                font-weight: 200;
-                height: 100vh;
-                margin: 0;
-            }
-
-            .full-height {
-                height: 100vh;
-            }
-
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
-            }
-
-            .position-ref {
-                position: relative;
-            }
-
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
-
-            .content {
-                text-align: center;
-            }
-
-            .title {
-                font-size: 84px;
-            }
-
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 13px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-            }
-
-            .m-b-md {
-                margin-bottom: 30px;
-            }
-        </style>
+        
+     
     </head>
     <body>
-        
+                <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+                    
+                            <a class="navbar-brand" href="#">NPS</a>
+                            <button class="navbar-toggler" data-toggle="collapse" data-target="#myNav">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                        
+                            <div class="collapse navbar-collapse justify-content-center" id="myNav">
+                                <div class="navbar-nav">
+                                        <a href="#" class="nav-item nav-link">Home</a>
+                                        <a href="#" class="nav-item nav-link">About Us</a>
+                                        <a href="#" class="nav-item nav-link">Contact Us</a>
+                                </div>
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Laravel
+                                
+                            </div>
+                            <a href="#" class="text-light nav-link  ml-auto">Log In</a>
+                </nav>
+                <div class="container border-right border-left border-primary">
+
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, excepturi sint? Obcaecati possimus laborum sit, eos rem aliquid omnis voluptatum aperiam nostrum fugiat quos. Deserunt neque hic doloribus dolor veniam!</p>
+
                 </div>
 
                 
-            </div>
-        </div>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+                <script src="{{ asset('js/bootstrap.min.js') }}"></script>  
     </body>
 </html>
