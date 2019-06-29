@@ -11,6 +11,7 @@
     <title>NSU PARKING REGISTRATION FORM</title>
   </head>
   <body>
+    <div  class="container">
     <h1>PARKING REGISTRATION FORM </h1>
 
     <form>
@@ -81,6 +82,26 @@
 <div class="form-group">
  <label for="formGroupVehicleInput">Vehicle Reg. No</label>
  <input type="text" class="form-control" id="formGroupDepartmentInput" placeholder="Registration number of vehicle to be parked">
+</div>
+
+<div class="form-group">
+ <label for="formGroupVehicleInput">Car Info</label>
+ <input class="form-control form-control-lg" type="text" placeholder="e.g model, color, etc">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
