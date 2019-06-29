@@ -14,7 +14,7 @@
      
     </head>
     <body>
-                <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+                <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
                     
                             <a class="navbar-brand" href="#">NPS</a>
                             <button class="navbar-toggler" data-toggle="collapse" data-target="#myNav">
@@ -34,14 +34,16 @@
                 </nav>
                 <div class="container border-right border-left border-primary">
 
-                    <div class="jumbotron jumbotron-fluid">
-                        <div class="jumbotron jumbotron-fluid">
-                            <div class="container">
-                              <h1 class="display-4">Nsu Parking System</h1>
-                              <p class="lead">This website is about Nsu Parking System</p>
+                    
+                        <div class="jumbotron jumbotron-fluid bg-info mt-1">
+                            <div class="container text-light">
+                              <h1 class="display-4 text-center ">Nsu Parking System</h1>
+                              <p class="lead text-center ">This website is about Nsu Parking System</p>
                             </div>
                           </div>
-                    </div>
+
+                          <h1 class="display-4 text-center ">SIGN UP FOR USING NSU PARKING SYSTEM</h1>
+                    
 
                 </div>
 
