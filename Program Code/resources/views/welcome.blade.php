@@ -14,7 +14,7 @@
      
     </head>
     <body>
-                <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+                <nav class="navbar navbar-expand-lg navbar-dark bg-dark  ">
                     
                             <a class="navbar-brand" href="#">NPS</a>
                             <button class="navbar-toggler" data-toggle="collapse" data-target="#myNav">
@@ -34,14 +34,39 @@
                 </nav>
                 <div class="container border-right border-left border-primary">
 
-                    <div class="jumbotron jumbotron-fluid">
-                        <div class="jumbotron jumbotron-fluid">
-                            <div class="container">
-                              <h1 class="display-4">Nsu Parking System</h1>
-                              <p class="lead">This website is about Nsu Parking System</p>
+                    
+                        <div class="jumbotron jumbotron-fluid bg-info mt-1">
+                            <div class="container text-light">
+                              <h1 class="display-4 text-center ">Nsu Parking System</h1>
+                              <p class="lead text-center ">This website is about Nsu Parking System</p>
                             </div>
                           </div>
-                    </div>
+
+                          <h1 class="display-4 text-center ">SIGN UP FOR USING NSU PARKING SYSTEM</h1>
+                          <form action="">
+                              <div class="form-group">
+                                <label for="subs1">Email address</label>
+                                <input type="email" class="form-control" id="subs1" placeholder="name@northsouth.edu">
+                              </div>
+                              <div class="form-group">
+                                <label for="subs2">First Name</label>
+                                <input type="text" class="form-control" id="subs2" placeholder="First Name">
+                              </div>
+                              <div class="form-group">
+                                <label for="subs3">First Name</label>
+                                <input type="text" class="form-control" id="subs3" placeholder="Last Name">
+                              </div>
+                              <div class="form-group">
+                                <label for="subs4">Password</label>
+                                <input type="password" class="form-control" id="subs4" placeholder="Your Password">
+                              </div>
+                              <div class="form-group row">
+                                <div class="col-sm-10">
+                                  <button type="submit" class="btn btn-primary">Submit</button>
+                                </div>
+                              </div>
+                          </form>
+                    
 
                 </div>
 

@@ -17,7 +17,12 @@ Route::get('/', function () {
 Route::get('/signup', function () {
     return view('form');
 });
-
+Route::get('/about', function () {
+    return view('about');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
 Route::get('/parkingform', function () {
     return view('parkingform');
 });
