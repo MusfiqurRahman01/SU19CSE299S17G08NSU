@@ -40,6 +40,11 @@
  <input type="text" class="form-control" id="formGroupDepartmentInput" placeholder="Department of Student/Employee">
 </div>
 
+<div class="form-group">
+ <label for="formGroupContactNumberInput">Contact Number</label>
+ <input type="text" class="form-control" id="formGroupContactNumberInput" placeholder="Contact Number of Student/Employee">
+</div>
+
 
 
 
