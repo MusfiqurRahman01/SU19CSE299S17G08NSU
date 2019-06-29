@@ -134,6 +134,9 @@
 
 </div>
 
+<p>Signature of the Applicant<input type="file" class="form-control-file" id="exampleFormControlFile1"></p>
+
+
 
 
 
