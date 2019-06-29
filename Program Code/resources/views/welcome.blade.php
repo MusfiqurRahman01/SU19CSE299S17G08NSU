@@ -34,7 +34,9 @@
                 </nav>
                 <div class="container border-right border-left border-primary">
 
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, excepturi sint? Obcaecati possimus laborum sit, eos rem aliquid omnis voluptatum aperiam nostrum fugiat quos. Deserunt neque hic doloribus dolor veniam!</p>
+                    <div class="jumbotron jumbotron-fluid">
+                        
+                    </div>
 
                 </div>
 
