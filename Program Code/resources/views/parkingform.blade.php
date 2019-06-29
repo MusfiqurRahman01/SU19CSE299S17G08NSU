@@ -57,11 +57,29 @@
    <label class="form-check-label" for="exampleRadios1">
      Summer
    </label>
+</div>
+
+    </div>
 
 
+<<<<<<< Updated upstream
+<div class="form-check">
 
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+  <label class="form-check-label" for="exampleRadios1">
+    Spring
+  </label>
+</div>
+=======
+    <div class="form-check">
 
- </div>
+      <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+      <label class="form-check-label" for="exampleRadios1">
+        Spring 
+      </label>
+
+       </div>
+>>>>>>> Stashed changes
 
 
 
