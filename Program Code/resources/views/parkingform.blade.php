@@ -85,19 +85,49 @@
 </div>
 
 <div class="form-group">
- <label for="formGroupVehicleInput">Car Info</label>
+ <label for="formGroupCarInfoInput">Car Info</label>
  <input class="form-control form-control-lg" type="text" placeholder="e.g model, color, etc">
 </div>
 
 
+<div class="form-group">
+ <label for="formGroupAddressInput">Address</label>
+ <input class="form-control form-control-lg" type="text" placeholder="Details address of Student/Employee/Vendor including mobile number">
+</div>
+
+<div class="form-group">
+ <label for="formGroupAddressInput">Required Documents</label>
+
+ <div class="input-group mb-3">
+   <div class="input-group-prepend">
+     <span class="input-group-text">Driving license Photocopy</span>
+   </div>
+   <div class="custom-file">
+     <input type="file" class="custom-file-input" id="inputGroupFile01">
+     <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+   </div>
+ </div>
 
 
+ <div class="input-group mb-3">
+   <div class="input-group-prepend">
+     <span class="input-group-text">PP Size Photograph</span>
+   </div>
+   <div class="custom-file">
+     <input type="file" class="custom-file-input" id="inputGroupFile01">
+     <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+   </div>
+ </div>
 
-
-
-
-
-
+ <div class="input-group mb-3">
+   <div class="input-group-prepend">
+     <span class="input-group-text">ID card Photocopy</span>
+   </div>
+   <div class="custom-file">
+     <input type="file" class="custom-file-input" id="inputGroupFile01">
+     <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+   </div>
+ </div>
 
 
 
@@ -105,14 +135,11 @@
 </div>
 
 
-
-
-
-
-
-
+<p>Signature of the Applicant<input type="file" class="form-control-file" id="exampleFormControlFile1"></p>
+<button type="button" class="btn btn-primary">Submit Form</button>
 
 </form>
+</div>
 
 
 
