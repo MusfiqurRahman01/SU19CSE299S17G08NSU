@@ -35,7 +35,12 @@
                 <div class="container border-right border-left border-primary">
 
                     <div class="jumbotron jumbotron-fluid">
-                        
+                        <div class="jumbotron jumbotron-fluid">
+                            <div class="container">
+                              <h1 class="display-4">Nsu Parking System</h1>
+                              <p class="lead">This website is about Nsu Parking System</p>
+                            </div>
+                          </div>
                     </div>
 
                 </div>
