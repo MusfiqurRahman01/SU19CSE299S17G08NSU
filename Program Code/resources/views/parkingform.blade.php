@@ -109,6 +109,17 @@
  </div>
 
 
+ <div class="input-group mb-3">
+   <div class="input-group-prepend">
+     <span class="input-group-text">PP Size Photograph</span>
+   </div>
+   <div class="custom-file">
+     <input type="file" class="custom-file-input" id="inputGroupFile01">
+     <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+   </div>
+ </div>
+
+
 
 
 </div>
