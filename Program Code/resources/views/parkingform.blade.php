@@ -35,6 +35,11 @@
  <input type="text" class="form-control" id="formGroupDesignationInput" placeholder="Designation of Student/Employee">
 </div>
 
+<div class="form-group">
+ <label for="formGroupDepartmentInput">Department</label>
+ <input type="text" class="form-control" id="formGroupDepartmentInput" placeholder="Department of Student/Employee">
+</div>
+
 
 
 
