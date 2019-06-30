@@ -32,8 +32,10 @@
                             </div>
                             <div class="navbar-nav">
                                 <form class="form-inline">
-                                    
-                                      
+                                    <div class="form-group mb-2">
+                                        <label for="email1" class="sr-only">Email</label>
+                                        <input type="text" readonly class="form-control-plaintext" id="email1" value="email@example.com">
+                                      </div>     
                                 </form>
                                 
 
