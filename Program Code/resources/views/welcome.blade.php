@@ -30,6 +30,15 @@
 
                                 
                             </div>
+                            <div class="navbar-nav">
+                                <form class="form-inline">
+                                    
+                                      
+                                </form>
+                                
+
+                            </div>
+                            
                             <a href="#" class="text-light nav-link  ml-auto">Log In</a>
                 </nav>
                 <div class="container border-right border-left border-primary">
