@@ -39,13 +39,14 @@
                                       <div class="form-group mx-sm-3 mb-2">
                                           <label for="inputPassword2" class="sr-only">Password</label>
                                           <input type="password" class="form-control" id="inputPassword2" placeholder="Password">
-                                        </div>     
+                                        </div>   
+                                        <button type="submit" class="btn btn-primary mb-2">Log In</button>  
                                 </form>
                                 
-
+                   
                             </div>
                             
-                            <a href="#" class="text-light nav-link  ml-auto">Log In</a>
+                            
                 </nav>
                 <div class="container border-right border-left border-primary">
 
