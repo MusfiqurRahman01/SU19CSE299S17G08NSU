@@ -14,9 +14,9 @@
 
 
   </head>
-  <div class="container-fluid">
+ <div class="container-fluid">
   <body>
-    <div class="container-fluid">
+
     <h1> TO BE FILLED BY NSU SECURITY DEPARTMENT</h1>
 
 
@@ -28,28 +28,32 @@
 </div>
 
 <div class="custom-control custom-radio custom-control-inline">
-<input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
+<input type="radio" id="customRadioInline2" name="customRadioInline2" class="custom-control-input">
 <label class="custom-control-label" for="customRadioInline1">OFFICIAL</label>
 </div>
 
 <div class="custom-control custom-radio custom-control-inline">
-<input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
+<input type="radio" id="customRadioInline3" name="customRadioInline3" class="custom-control-input">
 <label class="custom-control-label" for="customRadioInline1">STUDENT</label>
 </div>
 
 <div class="custom-control custom-radio custom-control-inline">
-<input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
+<input type="radio" id="customRadioInline4" name="customRadioInline4" class="custom-control-input">
 <label class="custom-control-label" for="customRadioInline1">STAFF</label>
 </div>
 
+<div class="custom-control custom-radio custom-control-inline">
+<input type="radio" id="customRadioInline5" name="customRadioInline5" class="custom-control-input">
+<label class="custom-control-label" for="customRadioInline1">VENDOR</label>
+</div>
 
-     </div>
+
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   </body>
+  </div>
 </html>
-
-</div>
