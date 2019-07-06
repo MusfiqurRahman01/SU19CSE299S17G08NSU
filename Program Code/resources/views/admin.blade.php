@@ -61,11 +61,14 @@
                             </div>
                           </div>
 
-                          
+                            <h2>ADMIN ACTIONS</h2>
 
-                          <form action="">
 
-                          </form>
+      <button type="button" class="btn btn-secondary">User Profile</button>
+      <button type="button" class="btn btn-secondary">Cancel Membership</button>
+      <button type="button" class="btn btn-secondary">Update user status</button>
+
+
 
 
                 </div>
