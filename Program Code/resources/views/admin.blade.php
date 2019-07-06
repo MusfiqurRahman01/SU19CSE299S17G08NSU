@@ -64,9 +64,9 @@
                             <h2>ADMIN ACTIONS</h2>
 
 
-      <button type="button" class="btn btn-secondary">User Profile</button>
-      <button type="button" class="btn btn-secondary">Cancel Membership</button>
-      <button type="button" class="btn btn-secondary">Update user status</button>
+      <button type="button" class="btn btn-danger">User Profile</button>
+      <button type="button" class="btn btn-danger">Cancel Membership</button>
+      <button type="button" class="btn btn-danger">Update user status</button>
 
 
 
