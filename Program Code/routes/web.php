@@ -23,10 +23,11 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-<<<<<<< HEAD
 
-=======
->>>>>>> Musfiqur
 Route::get('/parkingform', function () {
     return view('parkingform');
+});
+
+Route::get('/security', function () {
+    return view('security');
 });
