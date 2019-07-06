@@ -31,3 +31,7 @@ Route::get('/parkingform', function () {
 Route::get('/security', function () {
     return view('security');
 });
+
+Route::get('/admin', function () {
+    return view('admin');
+});
