@@ -88,8 +88,15 @@
   <label class="custom-file-label" for="customFile">Signature</label>
 </div>
 
+<div clas="container">
+<p>
+
+</P>
 </div>
 
+<button type="button" class="btn btn-primary">SUBMIT</button>
+
+</div>
 
 
     <!-- Optional JavaScript -->
