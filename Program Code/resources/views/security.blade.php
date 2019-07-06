@@ -62,6 +62,7 @@
 
 
 <div class= "container">
+  <label for="formGroupExampleInput">RF PARKING CARD ID: </label>
 <div class="input-group">
   <div class="input-group-prepend">
     <span class="input-group-text" id="">RF PARKING CARD ID</span>
@@ -69,10 +70,22 @@
   <input type="text" class="form-control">
   </div>
 
-<label for="formGroupExampleInput">Signature of security dept </label>
+<label for="formGroupExampleInput">SIGNATURE OF SECURITY DEPT: </label>
 <div class="custom-file">
   <input type="file" class="custom-file-input" id="customFile">
   <label class="custom-file-label" for="customFile">Signature of security dept</label>
+</div>
+
+<label for="formGroupExampleInput">SIGNATURE OF PARKING OPERATOR: </label>
+<div class="custom-file">
+  <input type="file" class="custom-file-input" id="customFile">
+  <label class="custom-file-label" for="customFile">Signature of parking operator</label>
+</div>
+
+<label for="formGroupExampleInput">ENDORSEMENT OF THE DEPT. HEAD / CHAIRMAN: </label>
+<div class="custom-file">
+  <input type="file" class="custom-file-input" id="customFile">
+  <label class="custom-file-label" for="customFile">Signature</label>
 </div>
 
 </div>
