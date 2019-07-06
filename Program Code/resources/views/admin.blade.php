@@ -51,6 +51,30 @@
 
 
 
+                <div class="container border-right border-left border-primary">
+
+
+                        <div class="jumbotron jumbotron-fluid bg-info mt-1">
+                            <div class="container text-light">
+                              <h1 class="display-4 text-center ">ADMIN PANEL</h1>
+                              <p class="lead text-center ">This website is about Nsu Parking System</p>
+                            </div>
+                          </div>
+
+                          
+
+                          <form action="">
+
+                          </form>
+
+
+                </div>
+
+
+
+
+
+
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
                 <script src="{{ asset('js/bootstrap.min.js') }}"></script>
     </body>
