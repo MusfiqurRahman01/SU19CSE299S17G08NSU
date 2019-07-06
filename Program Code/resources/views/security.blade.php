@@ -10,13 +10,25 @@
 
     <title>Nsu Security Dept</title>
 
-    <div class="container-fluid">
-  
+
+
 
   </head>
+  <div class="container-fluid">
   <body>
+    <div class="container-fluid">
     <h1> TO BE FILLED BY NSU SECURITY DEPARTMENT</h1>
 
+
+    <p>Card group:</p>
+
+    <div class="custom-control custom-radio custom-control-inline">
+  <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
+  <label class="custom-control-label" for="customRadioInline1">FACULTY</label>
+</div>
+
+
+     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
