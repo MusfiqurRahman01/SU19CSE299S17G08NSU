@@ -42,16 +42,19 @@
             <div class="container">
                 
                 <div class="row">
-                        <div class="col-4">
+                        <div class="col-2">
                                         <div class="d-flex flex-column">
-                                                <div class="p-2">Information</div>
-                                                <div class="p-2">Registration</div>
-                                                <div class="p-2">Payment</div>
+                                                        
+                                                        
+                                                        
+                                                <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Information</a></div>
+                                                <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Registration</a></div>
+                                                <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Payment</a></div>
                                         </div>
                         </div>
                         <div class="col-8">
                                 <div class="container border-right border-left border-primary">
-                                        <H1>User Info</H1>
+                                        <H1 class="text-center">User Info</H1>
                                 </div>
                         </div>
                 </div>
