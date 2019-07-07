@@ -40,12 +40,15 @@
                     </div>
             </nav>
             <div class="container">
-                <div class="d-flex flex-column">
-                        <div class="p-2">Information</div>
-                        <div class="p-2">Registration</div>
-                        <div class="p-2">Payment</div>
-                      </div>
+                
                 <div class="row">
+                        <div class="col-4">
+                                        <div class="d-flex flex-column">
+                                                <div class="p-2">Information</div>
+                                                <div class="p-2">Registration</div>
+                                                <div class="p-2">Payment</div>
+                                        </div>
+                        </div>
                         <div class="col-8">
                                 <div class="container border-right border-left border-primary">
                                         <H1>User Info</H1>
@@ -54,6 +57,7 @@
                 </div>
             </div>
             
-        
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+            <script src="{{ asset('js/bootstrap.min.js') }}"></script>
     </body>
 </html>
