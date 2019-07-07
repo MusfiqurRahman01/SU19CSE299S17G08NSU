@@ -39,6 +39,14 @@
                    
                     </div>
             </nav>
+            <div class="container">
+
+                <h1 class="text-center display-4 border-right border-left border-primary ">Contact Us</h1>
+                
+                <form action="">
+
+                </form>
+            </div>
         
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
             <script src="{{ asset('js/bootstrap.min.js') }}"></script>
