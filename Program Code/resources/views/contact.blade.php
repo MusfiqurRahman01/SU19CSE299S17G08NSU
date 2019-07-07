@@ -39,12 +39,19 @@
                    
                     </div>
             </nav>
-            <div class="container">
+            <div class="container  border-right border-left border-primary">
 
-                <h1 class="text-center display-4 border-right border-left border-primary ">Contact Us</h1>
-                
+                <h1 class="text-center display-4  ">Contact Us</h1>
+
                 <form action="">
-
+                        <div class="form-group">
+                                <label for="subs1">Email address</label>
+                                <input type="email" class="form-control" id="subs1" placeholder="name@northsouth.edu">
+                              </div>
+                              <div class="form-group">
+                                <label for="subs2">Subject</label>
+                                <input type="text" class="form-control" id="subs2" placeholder="Subjects">
+                              </div>
                 </form>
             </div>
         
