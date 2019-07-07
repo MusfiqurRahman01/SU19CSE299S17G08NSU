@@ -41,10 +41,10 @@
             </nav>
             <div class="container  border-right border-left border-primary">
 
-                <h1 class="text-center display-4  ">Contact Us</h1>
+                <h1 class="text-center display-2 p-4 ">Contact Us</h1>
 
                 <form action="">
-                        <div class="form-group">
+                        <div class="form-group ">
                                 <label for="subs1">Email address</label>
                                 <input type="email" class="form-control" id="subs1" placeholder="name@northsouth.edu">
                               </div>
@@ -52,6 +52,11 @@
                                 <label for="subs2">Subject</label>
                                 <input type="text" class="form-control" id="subs2" placeholder="Subjects">
                               </div>
+                              <div class="form-gruop">
+                                    <label for="message1">Message</label>
+                                    <textarea class="form-control" id="message1" rows="6"></textarea>
+                              </div>
+                              <button type="button" class="btn btn-primary btn-lg btn-block mt-4">Submit</button>
                 </form>
             </div>
         
