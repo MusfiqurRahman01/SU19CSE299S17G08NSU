@@ -39,6 +39,13 @@
                    
                     </div>
             </nav>
+            <div class="container">
+                <div class="d-flex flex-column">
+                        <div class="p-2">Information</div>
+                        <div class="p-2">Registration</div>
+                        <div class="p-2">Payment</div>
+                      </div>
+            </div>
         
     </body>
 </html>
