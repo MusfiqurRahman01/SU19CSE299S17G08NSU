@@ -35,3 +35,7 @@ Route::get('/security', function () {
 Route::get('/admin', function () {
     return view('admin');
 });
+Route::get('/user/index', function () {
+    return view('user');
+});
+

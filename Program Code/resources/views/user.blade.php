@@ -39,6 +39,28 @@
                    
                     </div>
             </nav>
-        
+            <div class="container">
+                
+                <div class="row">
+                        <div class="col-2">
+                                        <div class="d-flex flex-column">
+                                                        
+                                                        
+                                                        
+                                                <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Information</a></div>
+                                                <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Registration</a></div>
+                                                <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Payment</a></div>
+                                        </div>
+                        </div>
+                        <div class="col-8">
+                                <div class="container border-right border-left border-primary">
+                                        <H1 class="text-center">User Info</H1>
+                                </div>
+                        </div>
+                </div>
+            </div>
+            
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+            <script src="{{ asset('js/bootstrap.min.js') }}"></script>
     </body>
 </html>
