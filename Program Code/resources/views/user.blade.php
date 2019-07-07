@@ -45,7 +45,15 @@
                         <div class="p-2">Registration</div>
                         <div class="p-2">Payment</div>
                       </div>
+                <div class="row">
+                        <div class="col-8">
+                                <div class="container border-right border-left border-primary">
+                                        <H1>User Info</H1>
+                                </div>
+                        </div>
+                </div>
             </div>
+            
         
     </body>
 </html>
