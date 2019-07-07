@@ -11,6 +11,20 @@
         <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     </head>
     <body>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark  ">
+                    <a class="navbar-brand" href="#">NPS</a>
+                    <button class="navbar-toggler" data-toggle="collapse" data-target="#myNav">
+                            <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-center" id="myNav">
+                            <div class="navbar-nav">
+                                    <a href="#" class="nav-item nav-link">Home</a>
+                                    <a href="#" class="nav-item nav-link">About Us</a>
+                                    <a href="#" class="nav-item nav-link">Contact Us</a>
+                            </div>      
+                    </div>
+                    
+            </nav>
         
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
             <script src="{{ asset('js/bootstrap.min.js') }}"></script>
