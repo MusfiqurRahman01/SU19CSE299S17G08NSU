@@ -49,7 +49,7 @@
         </div>
   </nav>
 
-  <div class= "container">
+  <div  class="container border-right border-left border-primary">
     <h1> TO BE FILLED BY NSU SECURITY DEPARTMENT</h1>
   </div>
 
