@@ -50,7 +50,14 @@
   </nav>
 
   <div  class="container border-right border-left border-primary">
-    <h1> TO BE FILLED BY NSU SECURITY DEPARTMENT</h1>
+
+
+    <div class="jumbotron jumbotron-fluid bg-info mt-1">
+        <div class="container text-light">
+          <h1 class="display-4 text-center ">TO BE FILLED BY NSU SECURITY DEPARTMENT</h1>
+          <p class="lead text-center ">This website is about Nsu Parking System</p>
+        </div>
+      </div>
 
 
 
@@ -97,12 +104,8 @@
        VENDOR
      </label>
    </div>
-   
 
-
-
-
-  </div>
+</div>
 
 
 
