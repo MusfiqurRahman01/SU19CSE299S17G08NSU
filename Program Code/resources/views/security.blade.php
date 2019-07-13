@@ -51,46 +51,16 @@
 
   <div  class="container border-right border-left border-primary">
     <h1> TO BE FILLED BY NSU SECURITY DEPARTMENT</h1>
+
+
+
+  <div class="form-group">
+
+   <label for="formGroupSemesterApplyingForInput"> CARD GROUP </label>
+
+
   </div>
 
-<div class= "container">
-    <h2>Card group:</h2>
-  </div>
-
-<div class= "container">
-    <div class="custom-control custom-radio custom-control-inline">
-  <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
-  <label class="custom-control-label" for="customRadioInline1">FACULTY</label>
-</div>
-
-
-
-<div class="custom-control custom-radio custom-control-inline">
-<input type="radio" id="customRadioInline2" name="customRadioInline2" class="custom-control-input">
-<label class="custom-control-label" for="customRadioInline1">OFFICIAL</label>
-</div>
-
-
-
-<div class="custom-control custom-radio custom-control-inline">
-<input type="radio" id="customRadioInline3" name="customRadioInline3" class="custom-control-input">
-<label class="custom-control-label" for="customRadioInline1">STUDENT</label>
-</div>
-
-
-
-<div class="custom-control custom-radio custom-control-inline">
-<input type="radio" id="customRadioInline4" name="customRadioInline4" class="custom-control-input">
-<label class="custom-control-label" for="customRadioInline1">STAFF</label>
-</div>
-
-
-
-<div class="custom-control custom-radio custom-control-inline">
-<input type="radio" id="customRadioInline5" name="customRadioInline5" class="custom-control-input">
-<label class="custom-control-label" for="customRadioInline1">VENDOR</label>
-</div>
-</div>
 
 
 <div class= "container">
@@ -128,6 +98,7 @@
 
 <button type="button" class="btn btn-primary">SUBMIT</button>
 
+</div>
 </div>
 
 
