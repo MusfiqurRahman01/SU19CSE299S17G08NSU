@@ -56,7 +56,7 @@
 
           <div class="jumbotron jumbotron-fluid bg-info mt-1">
               <div class="container text-light">
-                <h1 class="display-4 text-center ">NPS About us</h1>
+                <h1 class="display-4 text-center ">NPS About Us</h1>
                 <p class="lead text-center ">This website is about Nsu Parking System</p>
               </div>
             </div>
