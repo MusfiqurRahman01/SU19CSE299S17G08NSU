@@ -24,6 +24,15 @@
       </button>
 
 
+      <div class="collapse navbar-collapse justify-content-center" id="myNav">
+          <div class="navbar-nav">
+                  <a href="#" class="nav-item nav-link">Home</a>
+                  <a href="#" class="nav-item nav-link">About Us</a>
+                  <a href="#" class="nav-item nav-link">Contact Us</a>
+          </div>
+      </div>
+
+
 
 
 
