@@ -6,13 +6,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    
+
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
 
     <title>NSU PARKING REGISTRATION FORM</title>
   </head>
   <body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark  ">
+         
+
+
+
+
+
+
+
+
+
+
+
+
+    </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <div  class="container">
     <h1>PARKING REGISTRATION FORM </h1>
 
