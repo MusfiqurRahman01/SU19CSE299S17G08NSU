@@ -19,7 +19,14 @@
       <a class="navbar-brand" href="#">NPS</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#myNav">
           <span class="navbar-toggler-icon"></span>
-      </button>    
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-center" id="myNav">
+          <div class="navbar-nav">
+                  <a href="#" class="nav-item nav-link">Home</a>
+                  <a href="#" class="nav-item nav-link">About Us</a>
+                  <a href="#" class="nav-item nav-link">Contact Us</a>
+          </div>    
 
 
 
