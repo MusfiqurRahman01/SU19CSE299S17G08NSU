@@ -13,9 +13,35 @@
     <title>Nsu Security Dept</title>
   </head>
 
-  
  <div class="container-fluid">
   <body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark  ">
+
+
+
+
+
+
+
+
+
+
+    </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <div class= "container">
     <h1> TO BE FILLED BY NSU SECURITY DEPARTMENT</h1>
