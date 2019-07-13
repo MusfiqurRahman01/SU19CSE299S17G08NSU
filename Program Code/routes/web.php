@@ -19,7 +19,7 @@ Route::get('/signup', function () {
 });
 Route::get('/about', function () {
     return view('about');
-});
+}):
 Route::get('/contact', function () {
     return view('contact');
 });
@@ -38,4 +38,3 @@ Route::get('/admin', function () {
 Route::get('/user/index', function () {
     return view('user');
 });
-
