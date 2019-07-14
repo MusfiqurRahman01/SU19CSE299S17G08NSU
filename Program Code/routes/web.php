@@ -35,6 +35,6 @@ Route::get('/security', function () {
 Route::get('/admin', function () {
     return view('admin');
 });
-Route::get('/user/{$user}', 'UsersController@show');
+Route::get('/user/{user}', 'UsersController@show');
 
 
