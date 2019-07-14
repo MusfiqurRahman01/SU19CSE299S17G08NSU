@@ -55,11 +55,15 @@
                         <div class="col-8">
                                 <div class="container border-right border-left border-primary">
                                         <H1 class="text-center">User Info</H1>
-                                        <form class="form-inline">
-                                                
+                                        <form class="form">
+
                                                 <div class="form-group mb-2">
                                                         <label for="email1" class="sr-only">Email</label>
-                                                        <input type="text"  class="form-control" id="email1" value="email@example.com">
+                                                        <input type="text"  class="form-control" id="email1" value="{{$user->email}}">
+                                                </div>
+                                                <div class="form-group mb-2">
+                                                        <label for="name" class="sr-only">Email</label>
+                                                        <input type="text"  class="form-control" id="name" value="{{$user->first_name}}">
                                                 </div>
                                                   
                                                   
