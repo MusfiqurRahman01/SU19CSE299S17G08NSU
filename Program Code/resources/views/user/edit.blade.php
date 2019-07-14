@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>
-        {{$user->id}}
+        Edit data
     </h1>
     <form class="form">
 
@@ -16,9 +16,15 @@
                     <input type="text"  class="form-control" id="email1" value="{{$user->email}}">
             </div>
             <div class="form-group mb-2">
-                    <label for="name" class="sr-only">Email</label>
+                    <label for="name" class="sr-only">First Name</label>
                     <input type="text"  class="form-control" id="name" value="{{$user->first_name}}">
             </div>             
+            <div class="form-group mb-2">
+                    <label for="name" class="sr-only">Last Name</label>
+                    <input type="text"  class="form-control" id="name" value="{{$user->first_name}}">
+            </div> 
+            
+            <button type="submit" class="btn btn-primary mb-2">Update</button>  
     </form>
 </body>
 </html>

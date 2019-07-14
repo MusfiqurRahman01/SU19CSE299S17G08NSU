@@ -40,6 +40,6 @@ Route::get('/user/{user}', 'UsersController@show');
 
 Route::get('/user/{user}/edit', 'UsersController@index');
 
-Route::get('/user/update', 'UsersController@update');
+Route::patch('/user/update', 'UsersController@update');
 
 
