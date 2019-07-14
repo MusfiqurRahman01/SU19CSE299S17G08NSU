@@ -71,7 +71,7 @@
                                                         <input type="text"  class="form-control" id="name" value="{{$user->last_name}}">
                                                 </div>
 
-                                                <a href="/user/{{$user}}/edit" class="btn btn-primary mb-2">Log In</a> 
+                                                <a href="/user/{{$user->id}}/edit" class="btn btn-primary mb-2">Edit</a> 
                                                   
                                                   
                                         </form>

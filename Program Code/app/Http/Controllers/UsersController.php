@@ -11,4 +11,9 @@ class UsersController extends Controller
         
         return view('user',compact('user'));
     }
+
+    public function index(User $user){
+        
+        return view('user.edit',compact('user'));
+    }
 }
