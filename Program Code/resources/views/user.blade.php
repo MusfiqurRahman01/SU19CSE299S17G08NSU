@@ -65,6 +65,13 @@
                                                         <label for="name" class="sr-only">Email</label>
                                                         <input type="text"  class="form-control" id="name" value="{{$user->first_name}}">
                                                 </div>
+
+                                                <div class="form-group mb-2">
+                                                        <label for="name" class="sr-only">Last Name</label>
+                                                        <input type="text"  class="form-control" id="name" value="{{$user->last_name}}">
+                                                </div>
+
+                                                <a href="/user/{{$user}}/edit" class="btn btn-primary mb-2">Log In</a> 
                                                   
                                                   
                                         </form>
