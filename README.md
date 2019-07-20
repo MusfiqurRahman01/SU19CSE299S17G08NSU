@@ -41,12 +41,12 @@ This project will be Web-Based application.
 3.	Javascript
 4.	Bootstrap
 
-## For Back-end
+### For Back-end
 
 1.	Laravel Framework
 2.	MySql DBMS
 
-## For Project Management
+### For Project Management
 
 1.	Github
 2.	Git
