@@ -31,7 +31,7 @@ At this moment if we need to register in NSU parking, we need to fill up registr
 6.	Bkash Payment
 7.	User Authentication
 
-Technology:
+## Technology:
 This project will be Web-Based application.
 For Front-end
 1.	Html
