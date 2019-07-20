@@ -1,4 +1,4 @@
-Parking System
+
 
 ![1417446449_6](https://user-images.githubusercontent.com/51596372/61581712-82600480-ab43-11e9-915b-75f090ce9a24.jpg)
 
@@ -45,5 +45,3 @@ Business plan:
 1. Business Concept: We want to develop a software based on the parking automation system. The purpose is to design a system that is easy to register and pay easily without any difficulty for the parking system.
 2. Potential: As the current registration system for parking vehicles is manual, our project has great potential to do well.
 3. Sales: Every semester, there are a lot of NSU students, staffs, faculties needed to be register for parking .They have to collect form, pay money ,submit it to the chairman for 4 month approval .It takes  a lot of time and work to done. So, we can build a software that can remove all the difficulties .This system can be added on the NSU RDS system or user can pay a small amount to use the software.
-
-
