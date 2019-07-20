@@ -16,7 +16,7 @@ ID: 1621536042
 
 Email: kh.sadik@northsouth.edu
 
-Project details:
+## Project details:
 
 In this project we are going to build a website such as “NSU Parking Registration system” so that user visits this website and do registration in online. User will fill up a form for registration like as parking registration form which will be provided by the website. User will fill up this form and submit it. After submission the authority (security department, parking operator) will verify all data which is given by the user. After verification user receives an email notification for deposit the amount (which is mention in the form section) in the bank (In this case user have to use NSU email account for registration). This website also has a payment section , after verification user can payment parking fees or registration amount which is mention in the registration form.
 At this moment if we need to register in NSU parking, we need to fill up registration form manually. That is because we do not have any website for parking registration and payment. After this project is completed, we can do parking registration and payment in online.
