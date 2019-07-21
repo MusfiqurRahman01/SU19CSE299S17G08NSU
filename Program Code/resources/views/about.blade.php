@@ -90,13 +90,10 @@
            <p>
 
             <h2> <hr> Contact Details </hr> </h2>
-            <div class="alert alert-primary" role="alert">
-  Email 1: <a href="www.gmail.com" class="alert-link">musfiqur.rahman01@northsouth.edu</a>
-</div>
 
-<div class="alert alert-primary" role="alert">
-Email 2: <a href="www.gmail.com" class="alert-link">kh.sadik@northsouth.edu</a>
-</div>
+  <p>Email 1: <a href="www.gmail.com" class="alert-link">musfiqur.rahman01@northsouth.edu</a><p>
+<p>Email 2: <a href="www.gmail.com" class="alert-link">kh.sadik@northsouth.edu</a></p>
+
 
  </p>
 
