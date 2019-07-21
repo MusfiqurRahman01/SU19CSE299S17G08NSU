@@ -72,8 +72,8 @@
 
              <p>
                <h2> <hr> About</hr> </h2>
-               “NSU Parking Registration system” is a website where user visits this website and do  parking registration in online. User will fill up a form for registration like as parking registration form which is provide by the website. User will fill up this form and submit it. After submission the authority (security dept, parking operator) verify all data which is given by the user. After verification user receive an email notification for deposit the amount (which is mention in the form section) in the bank (In this case user have to use NSU email account for registration).
-              <p>This website also has a payment section in this section, after verification user can payment parking fees or registration amount which is mention in the registration form.</p>
+               “NSU Parking Registration system” is a website where user visits this website and do  parking registration in online. User will fill up a form for registration like as parking registration form which is provide by the website. User will fill up this form and submit it.
+               <p> After submission the authority (security dept, parking operator) verify all data which is given by the user. After verification user receive an email notification for deposit the amount (which is mention in the form section) in the bank (In this case user have to use NSU email account for registration).This website also has a payment section in this section, after verification user can payment parking fees or registration amount which is mention in the registration form.</p>
             </p>
 
 
