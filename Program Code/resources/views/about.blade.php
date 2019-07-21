@@ -80,15 +80,14 @@
             <p>
               <h2><hr>Developer Info</hr> </h2>
 
-              <p>Developed & Maintained By</p>
-               <em>Md.Musfiqur Rahman</em>
+              Developed & Maintained By
+               <p><em>Md.Musfiqur Rahman</em></p>
+              <em>Department : ECE</em>
               <p><em>Student of North South University</em></p>
 
 
 
-
-
-            </p>
+  </p>
 
 
 
