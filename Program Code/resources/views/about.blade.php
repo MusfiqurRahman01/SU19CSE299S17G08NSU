@@ -114,6 +114,8 @@ Let us know how we can improve your experience by email us -
 
 <h2> <hr> Founding Date </hr> </h2>
 
+<p> June 17 , 2019</p>
+
 
     </p>
 
