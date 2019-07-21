@@ -61,14 +61,13 @@
               </div>
             </div>
 
-            <p>
+              <p>
 
               <h2> BUSINESS INFO </h2>
+We want to develop a software based on the parking automation system.
+The purpose is to design a system that is easy to register and pay easily without any difficulty for the parking system.
 
-
-
-
-            </p>
+              </p>
 
 
              <p>
