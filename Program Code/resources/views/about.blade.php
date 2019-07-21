@@ -100,6 +100,15 @@
  <p>
     <h2> <hr> General Information </hr> </h2>
 
+    <p>
+Your ideas and suggestions help us to constantly improve NPS features.
+Let us know how we can improve your experience by email us -
+  <p><a href="www.gmail.com" class="alert-link">musfiqur.rahman01@northsouth.edu</a></p>
+  <p><a href="www.gmail.com" class="alert-link">kh.sadik@northsouth.edu</a></p>
+
+
+    </p>
+
 
 
  </p>
