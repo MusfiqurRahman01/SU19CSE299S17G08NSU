@@ -15,8 +15,9 @@
                 <h1 class="mb-4 text-center">
                         Edit {{$user->first_name}} data
                 </h1>
-                <form class="form" method="POST" action="/user/update">
+                <form class="form" method="POST">
                         @method('PATCH')
+                        @csrf
             
 
                                 <div class="form-group mb-2">
@@ -32,7 +33,7 @@
                                         <input type="text"  class="form-control" id="lname" value="{{$user->last_name}}">
                                 </div> 
                                 
-                                <a href="/user/update" class="btn btn-primary mb-4">Update</a>   
+                                <a href="/user/{{$user->id}}" class="btn btn-primary mb-4">Update</a>   
                 </form>            
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
