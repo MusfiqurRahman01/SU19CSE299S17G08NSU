@@ -63,9 +63,9 @@
 
               <p>
 
-              <h2> BUSINESS INFO </h2>
+            <h2> <hr> BUSINESS INFO </hr> </h2>
               This website is based on the parking automation system.
-              The purpose is making easy to register and pay easily without any difficulty for the parking system.
+              <p>The purpose is making easy to register and pay easily without any difficulty for the parking system.</p>
 
               </p>
 
