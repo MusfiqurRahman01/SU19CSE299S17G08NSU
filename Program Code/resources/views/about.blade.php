@@ -82,6 +82,7 @@
 
               Developed & Maintained By
               <p> <em>Md.Musfiqur Rahman</em></p>
+              <em>Student of North South University</em>
 
 
 
