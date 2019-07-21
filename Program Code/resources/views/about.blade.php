@@ -80,9 +80,9 @@
             <p>
               <h2><hr>Developer Info</hr> </h2>
 
-              Developed & Maintained By
-              <p> <em>Md.Musfiqur Rahman</em></p>
-              <em>Student of North South University</em>
+              <p>Developed & Maintained By</p>
+               <em>Md.Musfiqur Rahman</em>
+              <p><em>Student of North South University</em></p>
 
 
 
