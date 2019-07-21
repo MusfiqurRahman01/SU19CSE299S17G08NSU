@@ -63,7 +63,7 @@
 
               <p>
 
-            <h2> <hr> BUSINESS INFO </hr> </h2>
+            <h2> <hr> Business Info </hr> </h2>
               This website is based on the parking automation system.
               <p>The purpose is making easy to register and pay easily without any difficulty for the parking system.</p>
 
@@ -85,10 +85,17 @@
                <p><em>Kh.Sadik</em></p>
               <em>Department : ECE</em>
               <p><em>Student of North South University</em></p>
+           </p>
+
+           <p>
+
+            <h2> <hr> Contact Details </hr> </h2>
+            <div class="alert alert-primary" role="alert">
+  Email: <a href="www.gmail.com" class="alert-link">musfiqur.rahman01@northsouth.edu</a>
+</div>
 
 
-
-  </p>
+           </p>
 
 
 
