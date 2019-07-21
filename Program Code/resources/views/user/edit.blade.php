@@ -25,11 +25,11 @@
                                 </div>
                                 <div class="form-group mb-2">
                                         <label for="name" class="sr-only">First Name</label>
-                                        <input type="text"  class="form-control" id="name" value="{{$user->first_name}}">
+                                        <input type="text"  class="form-control" id="fname" value="{{$user->first_name}}">
                                 </div>             
                                 <div class="form-group mb-2">
                                         <label for="name" class="sr-only">Last Name</label>
-                                        <input type="text"  class="form-control" id="name" value="{{$user->last_name}}">
+                                        <input type="text"  class="form-control" id="lname" value="{{$user->last_name}}">
                                 </div> 
                                 
                                 <a href="/user/update" class="btn btn-primary mb-4">Update</a>   

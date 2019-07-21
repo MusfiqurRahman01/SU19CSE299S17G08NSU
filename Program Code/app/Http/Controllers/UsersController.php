@@ -18,6 +18,8 @@ class UsersController extends Controller
     }
 
     public function update(User $user){
+
+        $user->update(request(['email','fname','lname']));
         
         return view('user.edit',compact('user'));
     }
