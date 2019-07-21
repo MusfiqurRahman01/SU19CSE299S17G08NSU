@@ -77,6 +77,18 @@
             </p>
 
 
+            <p>
+              <h2><hr>Developer Info</hr> </h2>
+
+            
+
+
+
+
+
+            </p>
+
+
 
 
 
