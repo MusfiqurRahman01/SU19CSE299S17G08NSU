@@ -15,7 +15,8 @@
                 <h1 class="mb-4 text-center">
                         Edit {{$user->first_name}} data
                 </h1>
-                <form class="form">
+                <form class="form" method="POST" action="/user/update">
+                        @method('PATCH')
             
 
                                 <div class="form-group mb-2">

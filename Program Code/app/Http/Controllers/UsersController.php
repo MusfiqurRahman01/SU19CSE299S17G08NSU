@@ -19,6 +19,6 @@ class UsersController extends Controller
 
     public function update(User $user){
         
-        return view();
+        return view('user.edit',compact('user'));
     }
 }
