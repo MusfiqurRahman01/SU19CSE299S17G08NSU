@@ -9,7 +9,7 @@
 
 
 <p>
-->  # NPS <-
+->  NPS <-
 
 ## Project Member
 
