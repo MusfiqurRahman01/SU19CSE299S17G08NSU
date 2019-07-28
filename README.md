@@ -18,7 +18,7 @@
 
 <H3 align="center"> ID: 1620277042 </H3>
 
-Email: musfiqur.rahman01@northsouth.edu
+<H3 align="center"> Email: musfiqur.rahman01@northsouth.edu </H3>
 
 Kh. Sadik
 
