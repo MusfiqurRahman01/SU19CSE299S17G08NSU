@@ -59,7 +59,7 @@
                           </div>
 
                           <h1 class="display-4 text-center ">SIGN UP FOR USING NSU PARKING SYSTEM</h1>
-                          <form action="">
+                          <form method="POST" action="/user">
                               <div class="form-group">
                                 <label for="subs1">Email address</label>
                                 <input type="email" class="form-control" id="subs1" placeholder="name@northsouth.edu">
