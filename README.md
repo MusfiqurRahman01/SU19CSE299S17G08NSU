@@ -10,7 +10,7 @@
 
 <p align="center">
 
-     <b>NPS</b>
+  -> This is centered Text <-
 
 
 </p>
