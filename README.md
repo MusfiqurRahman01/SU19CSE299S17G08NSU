@@ -12,9 +12,9 @@
 
 <H1 align="center"> NPS </H1>
 
-<H2 align="center"> Project Member</H2>
+<H2 align="center"> Project Member </H2>
 
-Md. Musfiqur Rahman
+<H3 align="center">Md. Musfiqur Rahman </H3>
 
 ID: 1620277042
 
