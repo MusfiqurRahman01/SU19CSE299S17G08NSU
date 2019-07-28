@@ -38,7 +38,7 @@ Route::get('/admin', function () {
 
 Route::get('/user/{user}', 'UsersController@show');
 
-Route::post('/user', 'UsersController@create');
+Route::post('/user', 'UsersController@store');
 
 Route::get('/user/{user}/edit', 'UsersController@index');
 

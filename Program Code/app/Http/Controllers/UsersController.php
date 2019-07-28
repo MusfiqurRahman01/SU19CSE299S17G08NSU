@@ -7,10 +7,11 @@ use App\User;
 
 class UsersController extends Controller
 {
-    public function create(User $user){
+    public function store(User $user){
 
-
-
+        request->vallidate([
+            'email'=>request('subs1'),
+        ]);
     }
     public function show(User $user){
         
