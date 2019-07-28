@@ -22,9 +22,9 @@
 
 <H3 align="center">Kh. Sadik</H3>
 
-<H3 align="center">ID: 1621536042<H3>
+<H3 align="center">ID: 1621536042</H3>
 
-Email: kh.sadik@northsouth.edu
+<H3 align="center">Email: kh.sadik@northsouth.edu</H3>
 
 </p>
 
