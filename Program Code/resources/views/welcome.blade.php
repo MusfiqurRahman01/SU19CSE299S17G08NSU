@@ -59,22 +59,25 @@
                           </div>
 
                           <h1 class="display-4 text-center ">SIGN UP FOR USING NSU PARKING SYSTEM</h1>
-                          <form action="">
+                          <form method="POST" action="/user">
+
+                              @csrf
+
                               <div class="form-group">
-                                <label for="subs1">Email address</label>
-                                <input type="email" class="form-control" id="subs1" placeholder="name@northsouth.edu">
+                                <label for="email1">Email address</label>
+                                <input type="email" class="form-control" id="email1" name="email" placeholder="name@northsouth.edu">
                               </div>
                               <div class="form-group">
-                                <label for="subs2">First Name</label>
-                                <input type="text" class="form-control" id="subs2" placeholder="First Name">
+                                <label for="fname1">First Name</label>
+                                <input type="text" class="form-control" id="fname1" name="first_name" placeholder="First Name">
                               </div>
                               <div class="form-group">
-                                <label for="subs3">First Name</label>
-                                <input type="text" class="form-control" id="subs3" placeholder="Last Name">
+                                <label for="lname1">Last Name</label>
+                                <input type="text" class="form-control" id="lname1"name="last_name" placeholder="Last Name">
                               </div>
                               <div class="form-group">
-                                <label for="subs4">Password</label>
-                                <input type="password" class="form-control" id="subs4" placeholder="Your Password">
+                                <label for="password1">Password</label>
+                                <input type="password" class="form-control" id="password1" name="password" placeholder="Your Password">
                               </div>
                               <div class="form-group row">
                                 <div class="col-sm-10">

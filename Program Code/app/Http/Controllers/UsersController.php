@@ -7,6 +7,16 @@ use App\User;
 
 class UsersController extends Controller
 {
+    public function store(){
+        
+     $info =request()->validate([
+            'email'=>'required',
+            'first_name'=>'required',
+            'last_name'=>'required',
+            'password'=>'required'
+        ]);
+        User::create($info);
+    }
     public function show(User $user){
         
         return view('user',compact('user'));
