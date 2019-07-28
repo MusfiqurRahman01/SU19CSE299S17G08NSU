@@ -65,19 +65,19 @@
 
                               <div class="form-group">
                                 <label for="email1">Email address</label>
-                                <input type="email" class="form-control" id="email1" name="email1" placeholder="name@northsouth.edu">
+                                <input type="email" class="form-control" id="email1" name="email" placeholder="name@northsouth.edu">
                               </div>
                               <div class="form-group">
                                 <label for="fname1">First Name</label>
-                                <input type="text" class="form-control" id="fname1" name="fname1" placeholder="First Name">
+                                <input type="text" class="form-control" id="fname1" name="first_name" placeholder="First Name">
                               </div>
                               <div class="form-group">
                                 <label for="lname1">Last Name</label>
-                                <input type="text" class="form-control" id="lname1"name="lname1" placeholder="Last Name">
+                                <input type="text" class="form-control" id="lname1"name="last_name" placeholder="Last Name">
                               </div>
                               <div class="form-group">
                                 <label for="password1">Password</label>
-                                <input type="password" class="form-control" id="password1" name="password1" placeholder="Your Password">
+                                <input type="password" class="form-control" id="password1" name="password" placeholder="Your Password">
                               </div>
                               <div class="form-group row">
                                 <div class="col-sm-10">

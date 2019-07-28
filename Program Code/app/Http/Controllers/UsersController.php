@@ -9,14 +9,13 @@ class UsersController extends Controller
 {
     public function store(){
         
-        request()->validate([
-            'email1'=>'required',
-            'fname1'=>'required',
-            'lname1'=>'required',
-            'password1'=>'required'
+     $info =request()->validate([
+            'email'=>'required',
+            'first_name'=>'required',
+            'last_name'=>'required',
+            'password'=>'required'
         ]);
-
-        User::create(request(['email1','fname1','lname1','password1']));
+        User::create($info);
     }
     public function show(User $user){
         
