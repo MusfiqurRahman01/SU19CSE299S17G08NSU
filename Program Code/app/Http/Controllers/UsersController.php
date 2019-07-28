@@ -9,8 +9,11 @@ class UsersController extends Controller
 {
     public function store(User $user){
 
-        request->vallidate([
-            'email'=>request('subs1'),
+        request()->validate([
+            'email1'=>'required',
+            'fname1'=>'required',
+            'lname1'=>'required',
+            'password1'=>'required'
         ]);
     }
     public function show(User $user){
