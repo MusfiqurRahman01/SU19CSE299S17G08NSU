@@ -20,7 +20,7 @@
 
 <H3 align="center"> Email: musfiqur.rahman01@northsouth.edu </H3>
 
-Kh. Sadik
+<H3 align="center">Kh. Sadik</H3>
 
 ID: 1621536042
 
