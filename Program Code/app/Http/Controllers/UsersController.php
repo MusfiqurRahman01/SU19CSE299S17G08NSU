@@ -7,6 +7,11 @@ use App\User;
 
 class UsersController extends Controller
 {
+    public function create(User $user){
+
+
+
+    }
     public function show(User $user){
         
         return view('user',compact('user'));
