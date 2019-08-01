@@ -48,7 +48,7 @@
                                                         
                                                         
                                                 <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Information</a></div>
-                                                <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Registration</a></div>
+                                                <div class="p-2"><a href="/parkingform" class="btn btn-primary btn-lg " >Registration</a></div>
                                                 <div class="p-2"><a href="#" class="btn btn-primary btn-lg " >Payment</a></div>
                                         </div>
                         </div>
