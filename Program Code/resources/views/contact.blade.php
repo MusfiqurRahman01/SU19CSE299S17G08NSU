@@ -19,8 +19,8 @@
                     <div class="collapse navbar-collapse justify-content-center" id="myNav">
                             <div class="navbar-nav">
                                     <a href="#" class="nav-item nav-link">Home</a>
-                                    <a href="#" class="nav-item nav-link">About Us</a>
-                                    <a href="#" class="nav-item nav-link">Contact Us</a>
+                                    <a href="/about" class="nav-item nav-link">About Us</a>
+                                    <a href="/contact" class="nav-item nav-link">Contact Us</a>
                             </div>      
                     </div>
                     <div class="navbar-nav">
@@ -43,7 +43,7 @@
 
                 <h1 class="text-center display-2 p-4 ">Contact Us</h1>
 
-                <form action="">
+                <form method="POST" action="">
                         <div class="form-group ">
                                 <label for="subs1">Email address</label>
                                 <input type="email" class="form-control" id="subs1" placeholder="name@northsouth.edu">
