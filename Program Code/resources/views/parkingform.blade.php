@@ -24,8 +24,8 @@
       <div class="collapse navbar-collapse justify-content-center" id="myNav">
           <div class="navbar-nav">
                   <a href="#" class="nav-item nav-link">Home</a>
-                  <a href="#" class="nav-item nav-link">About Us</a>
-                  <a href="#" class="nav-item nav-link">Contact Us</a>
+                  <a href="/about" class="nav-item nav-link">About Us</a>
+                  <a href="/contact" class="nav-item nav-link">Contact Us</a>
           </div>
       </div>
 
@@ -64,7 +64,7 @@
 
 
 
-    <form>
+<form>
  <div class="form-group">
    <label for="exampleInputdate">Date:</label>
    <input type="date" class="form-control" id="exampleInputdate"  placeholder="Enter date">
