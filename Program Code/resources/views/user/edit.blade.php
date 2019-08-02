@@ -33,7 +33,7 @@
                                         <input type="text"  class="form-control" id="lname" value="{{$user->last_name}}">
                                 </div> 
                                 
-                                <a href="/user/{{$user->id}}" class="btn btn-primary mb-4">Update</a>   
+                                <button type="submit" class="btn btn-primary mb-2">Update</button>   
                 </form>            
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
