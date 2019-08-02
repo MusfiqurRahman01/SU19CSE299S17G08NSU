@@ -15,7 +15,7 @@
                 <h1 class="mb-4 text-center">
                         Edit {{$user->first_name}} data
                 </h1>
-                <form class="form" method="POST">
+                <form class="form" method="POST" action="/user/{{$user->id}}">
                         @method('PATCH')
                         @csrf
             
