@@ -28,14 +28,16 @@ class UsersController extends Controller
     }
 
     public function update(User $user){
+        
         $edit = request()->validate([
             'email'=>'required',
             'first_name'=>'required',
-            'last_name'=>'required',
+            'last_name'=>'required'
         ]);
 
         $user->update($edit);
         
-        return view('user.edit',compact('user'));
+        return back();
+        dd('helo');
     }
 }
