@@ -22,7 +22,7 @@
 
                                 <div class="form-group mb-2">
                                         <label for="email1" class="sr-only">Email</label>
-                                        <input type="text"  class="form-control" id="email1" value="{{$user->email}}">
+                                        <input type="text"  class="form-control" id="email1" name="email" value="{{$user->email}}">
                                 </div>
                                 <div class="form-group mb-2">
                                         <label for="name" class="sr-only">First Name</label>
