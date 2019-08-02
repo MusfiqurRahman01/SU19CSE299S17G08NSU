@@ -28,8 +28,12 @@ class UsersController extends Controller
     }
 
     public function update(User $user){
-        $edit = reuest()->validate();
-        
+        $edit = reuest()->validate([
+            'email'=>'required',
+            'first_name'=>'required',
+            'last_name'=>'required',
+        ]);
+
         $user->update(request(['email','fname','lname']));
         
         return view('user.edit',compact('user'));
