@@ -13,7 +13,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark  ">
                 <a class="navbar-brand" href="#">NPS</a>
                 <button class="navbar-toggler" data-toggle="collapse" data-target="#myNav">
-                        
+                        <span class="navbar-toggler-icon"></span>
                 </button>
     </nav>
     
