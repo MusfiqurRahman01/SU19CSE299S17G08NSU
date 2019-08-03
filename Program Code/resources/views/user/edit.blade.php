@@ -15,6 +15,8 @@
                 <button class="navbar-toggler" data-toggle="collapse" data-target="#myNav">
                         <span class="navbar-toggler-icon"></span>
                 </button>
+                <div class="collapse navbar-collapse justify-content-center" id="myNav">
+                                <div class="navbar-nav">
     </nav>
     
     <div class="container">
