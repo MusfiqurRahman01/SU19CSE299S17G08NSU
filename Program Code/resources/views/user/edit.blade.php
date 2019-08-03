@@ -20,6 +20,8 @@
                                                 <a href="#" class="nav-item nav-link">Home</a>
                                                 <a href="/about" class="nav-item nav-link">About Us</a>
                                                 <a href="/contact" class="nav-item nav-link">Contact Us</a>
+                                        </div>      
+                </div>
     </nav>
     
     <div class="container">
