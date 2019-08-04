@@ -47,6 +47,7 @@
                                 </div> 
                                 <div class="form-group mb-2">
                                         <label for="name" class="sr-only">Last Name</label>
+                                        <input type="text"  class="form-control" id="lname" name="last_name">
                                 </div> 
                                 
                                 <button type="submit" class="btn btn-primary mb-2">Update</button>   
