@@ -26,7 +26,7 @@
 
         <div class="collapse navbar-collapse justify-content-center" id="myNav">
             <div class="navbar-nav">
-                    
+                        <a href="#" class="nav-item nav-link">Home</a>
             </div>
 
 
