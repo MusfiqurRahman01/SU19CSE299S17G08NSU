@@ -32,12 +32,13 @@ class UsersController extends Controller
         $edit = request()->validate([
             'email'=>'required',
             'first_name'=>'required',
-            'last_name'=>'required'
+            'last_name'=>'required',
+            'password'=>'required'
         ]);
 
         $user->update($edit);
         
         return back();
-        dd('helo');
+        
     }
 }
