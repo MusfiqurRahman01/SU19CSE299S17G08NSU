@@ -81,6 +81,13 @@
   		<i class="fa fa-credit-card"></i> Credit Card</a>
   </li>
 
+  <li class="nav-item">
+		<a class="nav-link" data-toggle="pill" href="#nav-tab-paypal">
+		<i class="fab fa-paypal"></i>  Bkash </a>
+  </li>
+
+  
+
 </ul>
 
 </div>
