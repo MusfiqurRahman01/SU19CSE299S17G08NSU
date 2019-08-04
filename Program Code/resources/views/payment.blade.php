@@ -74,6 +74,11 @@
              <div class="row">
                <div class="paymentCont">
 
+                 	<div class="paymentWrap">
+
+
+                  </div>
+
 
 
 
