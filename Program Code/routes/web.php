@@ -39,6 +39,10 @@ Route::get('/payment', function () {
     return view('payment');
 });
 
+Route::get('/payment', function () {
+    return view('payment');
+});
+
 Route::get('/user/{user}', 'UsersController@show');
 
 Route::post('/user', 'UsersController@store');
