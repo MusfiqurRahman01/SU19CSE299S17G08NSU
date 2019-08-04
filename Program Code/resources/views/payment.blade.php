@@ -70,6 +70,14 @@
            <h2> <hr> Select Your Payment Method</hr> </h2>
 
 
+           <div class="container">
+
+
+
+
+
+
+          </div>
 
 
 
@@ -78,8 +86,6 @@
 
 
 
-
-       </div>
 
 
 
