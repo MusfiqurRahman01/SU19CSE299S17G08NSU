@@ -37,7 +37,7 @@
         <div class="navbar-nav">
             <form class="form-inline">
                 <div class="form-group mb-2">
-                    <label for="email1" class="sr-only">  </label>
+                    <label for="email1" class="sr-only"> Email  </label>
                     <input type="text"  class="form-control" id="email1" value="email@example.com">
                   </div>
                   <div class="form-group mx-sm-3 mb-2">
