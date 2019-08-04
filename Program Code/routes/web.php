@@ -36,6 +36,10 @@ Route::get('/admin', function () {
     return view('admin');
 });
 
+Route::get('/payment', function () {
+    return view('payment');
+});
+
 Route::get('/user/{user}', 'UsersController@show');
 
 Route::post('/user', 'UsersController@store');
@@ -43,5 +47,3 @@ Route::post('/user', 'UsersController@store');
 Route::get('/user/{user}/edit', 'UsersController@index');
 
 Route::patch('/user/{update}', 'UsersController@update');
-
-
