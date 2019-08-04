@@ -86,7 +86,11 @@
 		<i class="fab fa-paypal"></i>  Bkash </a>
   </li>
 
-  
+  <li class="nav-item">
+  <a class="nav-link" data-toggle="pill" href="#nav-tab-bank">
+  <i class="fa fa-university"></i>  Bank Transfer</a>
+
+</li>
 
 </ul>
 
