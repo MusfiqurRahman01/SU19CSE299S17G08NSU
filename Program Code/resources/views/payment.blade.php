@@ -67,21 +67,29 @@
              </div>
            </div>
 
-           <h2> <hr> Select Your Payment Method</hr> </h2>
+
 
 
            <div class="container">
              <div class="row">
                <div class="paymentCont">
 
+                 <div class="headingWrap">
+								<h3 class="headingTop text-center">Select Your Payment Method</h3>
+								</div>
+
                  	<div class="paymentWrap">
                     <div class="btn-group paymentBtnGroup btn-group-justified" data-toggle="buttons">
+
+                      <label class="btn paymentMethod active">
+					            	<div class="method visa"></div>
+					                <input type="radio" name="options" checked>
+					            </label>
+
 
 
 
                     </div>
-
-
                   </div>
 
 
