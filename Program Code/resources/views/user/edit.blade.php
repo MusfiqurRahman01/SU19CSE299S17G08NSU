@@ -47,7 +47,7 @@
                                 </div> 
                                 <div class="form-group mb-2">
                                         <label for="password" class="sr-only">Password</label>
-                                        <input type="text"  class="form-control" id="lname" name="last_name">
+                                        <input type="password"  class="form-control" id="password" name="password">
                                 </div> 
                                 
                                 <button type="submit" class="btn btn-primary mb-2">Update</button>   
