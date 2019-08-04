@@ -24,6 +24,19 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
+        <div class="collapse navbar-collapse justify-content-center" id="myNav">
+            <div class="navbar-nav">
+                    
+            </div>
+
+
+        </div>
+
+
+
+
+
+
         </nav>
 
 
