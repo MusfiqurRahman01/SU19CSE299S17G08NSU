@@ -75,6 +75,11 @@
                <div class="paymentCont">
 
                  	<div class="paymentWrap">
+                    <div class="btn-group paymentBtnGroup btn-group-justified" data-toggle="buttons">
+
+
+
+                    </div>
 
 
                   </div>
