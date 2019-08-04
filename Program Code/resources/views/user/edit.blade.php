@@ -46,7 +46,7 @@
                                         <input type="text"  class="form-control" id="lname" name="last_name" value="{{$user->last_name}}">
                                 </div> 
                                 <div class="form-group mb-2">
-                                        <label for="name" class="sr-only">Last Name</label>
+                                        <label for="password" class="sr-only">Password</label>
                                         <input type="text"  class="form-control" id="lname" name="last_name">
                                 </div> 
                                 
