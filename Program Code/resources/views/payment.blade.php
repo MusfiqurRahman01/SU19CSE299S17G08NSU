@@ -75,7 +75,12 @@
  <div class="card-body p-5">
 
 <ul class="nav bg-light nav-pills rounded nav-fill mb-3" role="tablist">
-	
+
+  <li class="nav-item">
+  		<a class="nav-link active" data-toggle="pill" href="#nav-tab-card">
+  		<i class="fa fa-credit-card"></i> Credit Card</a>
+  </li>
+
 </ul>
 
 </div>
