@@ -54,6 +54,13 @@
 
        <div class="container border-right border-left border-primary">
 
+         <div class="jumbotron jumbotron-fluid bg-info mt-1">
+             <div class="container text-light">
+               <h1 class="display-4 text-center "> </h1>
+               <p class="lead text-center ">   </p>
+             </div>
+           </div>
+
 
 
 
