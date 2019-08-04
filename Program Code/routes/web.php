@@ -35,8 +35,6 @@ Route::get('/security', function () {
 Route::get('/admin', function () {
     return view('admin');
 });
-
-
 Route::get('/payment', function () {
     return view('payment');
 });
