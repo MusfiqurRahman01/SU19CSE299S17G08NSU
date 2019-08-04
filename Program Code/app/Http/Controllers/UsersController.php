@@ -39,6 +39,6 @@ class UsersController extends Controller
         $user->update($edit);
         
         return back();
-        dd('helo');
+        
     }
 }
