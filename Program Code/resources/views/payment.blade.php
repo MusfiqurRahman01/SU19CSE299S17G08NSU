@@ -57,7 +57,7 @@
          <div class="jumbotron jumbotron-fluid bg-info mt-1">
              <div class="container text-light">
                <h1 class="display-4 text-center ">NPS payment </h1>
-               <p class="lead text-center ">   </p>
+               <p class="lead text-center "> This is the payment section of NSU parking system</p>
              </div>
            </div>
 
