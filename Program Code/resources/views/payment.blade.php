@@ -61,7 +61,7 @@
              </div>
            </div>
 
-           <h2> <hr>  </hr> </h2>
+           <h2> <hr> Select Your Payment Method</hr> </h2>
 
 
 
