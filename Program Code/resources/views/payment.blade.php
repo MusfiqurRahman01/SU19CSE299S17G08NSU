@@ -80,7 +80,9 @@
               </li>
 
              <li class="nav-item">
-               
+               <a data-toggle="pill" href="#nav-tab-paypal" class="nav-link rounded-pill">
+
+
              </li>
 
 
