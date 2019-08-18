@@ -72,6 +72,7 @@
       <div class="bg-white rounded-lg shadow-sm p-5">
           <!-- Credit card form tabs -->
             <ul role="tablist" class="nav bg-light nav-pills rounded-pill nav-fill mb-3">
+              <li class="nav-item">
 
       </div>
     </div>
