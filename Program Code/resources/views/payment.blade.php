@@ -69,6 +69,7 @@
 
   <div class="row">
     <div class="col-lg-7 mx-auto">
+      <div class="bg-white rounded-lg shadow-sm p-5">
 
     </div>
   </div>
