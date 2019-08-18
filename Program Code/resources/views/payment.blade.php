@@ -75,7 +75,7 @@
               <li class="nav-item">
                 <a data-toggle="pill" href="#nav-tab-card" class="nav-link active rounded-pill">
 
-
+                </a>
               </li>
       </div>
     </div>
