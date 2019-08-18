@@ -93,11 +93,22 @@
                                 Bank Transfer
                              </a>
           </li>
+        </ul>
+
+
+        <!-- Credit card form content -->
+
+        <div class="tab-content">
+
+
+
+        </div>
 
 
 
 
-            </ul>
+
+
       </div>
     </div>
   </div>
