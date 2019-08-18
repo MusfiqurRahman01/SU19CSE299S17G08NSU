@@ -81,9 +81,10 @@
 
              <li class="nav-item">
                <a data-toggle="pill" href="#nav-tab-paypal" class="nav-link rounded-pill">
-
-
-             </li>
+                 <i class="fa fa-paypal"></i>
+                              Bkash
+                          </a>
+                        </li>
 
 
 
