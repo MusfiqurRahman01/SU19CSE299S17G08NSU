@@ -100,7 +100,13 @@
 
         <div class="tab-content">
 
-
+          <div id="nav-tab-card" class="tab-pane fade show active">
+          <p class="alert alert-success">payment now</p>
+          <form role="form">
+            <div class="form-group">
+              <label for="username">Full name (on the card)</label>
+              <input type="text" name="username" placeholder="Jason Doe" required class="form-control">
+            </div>
 
         </div>
 
