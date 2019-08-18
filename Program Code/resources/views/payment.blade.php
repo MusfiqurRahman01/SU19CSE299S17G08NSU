@@ -78,6 +78,7 @@
                       Credit Card
                 </a>
               </li>
+            </ul>
       </div>
     </div>
   </div>
