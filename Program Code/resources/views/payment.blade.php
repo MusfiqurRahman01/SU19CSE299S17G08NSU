@@ -147,6 +147,7 @@
               <button type="button" class="subscribe btn btn-primary btn-block rounded-pill shadow-sm"> Confirm  </button>
             </form>
           </div>
+        </div>
 
 
 
