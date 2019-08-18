@@ -87,6 +87,14 @@
                         </li>
 
 
+                        <li class="nav-item">
+            <a data-toggle="pill" href="#nav-tab-bank" class="nav-link rounded-pill">
+                                <i class="fa fa-university"></i>
+                                
+                             </a>
+          </li>
+
+
 
 
             </ul>
