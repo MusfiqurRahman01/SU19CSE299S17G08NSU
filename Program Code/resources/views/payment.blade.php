@@ -70,35 +70,7 @@
 
 
 
-<article class="card">
 
- <div class="card-body p-5">
-
-<ul class="nav bg-light nav-pills rounded nav-fill mb-3" role="tablist">
-
-  <li class="nav-item">
-  		<a class="nav-link active" data-toggle="pill" href="#nav-tab-card">
-  		<i class="fa fa-credit-card"></i> Credit Card</a>
-  </li>
-
-  <li class="nav-item">
-		<a class="nav-link" data-toggle="pill" href="#nav-tab-paypal">
-		<i class="fab fa-paypal"></i>  Bkash </a>
-  </li>
-
-  <li class="nav-item">
-  <a class="nav-link" data-toggle="pill" href="#nav-tab-bank">
-  <i class="fa fa-university"></i>  Bank Transfer</a>
-
-</li>
-
-</ul>
-
-</div>
-
-
-
-</article>
 </div>
 
 
