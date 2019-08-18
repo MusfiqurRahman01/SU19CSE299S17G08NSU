@@ -75,7 +75,7 @@
               <li class="nav-item">
                 <a data-toggle="pill" href="#nav-tab-card" class="nav-link active rounded-pill">
                    <i class="fa fa-credit-card"></i>
-
+                      Credit Card
                 </a>
               </li>
       </div>
