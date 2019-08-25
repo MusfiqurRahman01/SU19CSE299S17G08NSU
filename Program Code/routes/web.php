@@ -47,6 +47,8 @@ Route::get('/user/{user}', 'UsersController@show');
 
 Route::post('/user', 'UsersController@store');
 
+Route::post('/subscribe', 'SubsController@store');
+
 Route::get('/user/{user}/edit', 'UsersController@index');
 
 Route::patch('/user/{update}', 'UsersController@update');
