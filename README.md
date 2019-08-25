@@ -63,7 +63,10 @@ In this project we are try to build a website such as “NSU Parking Registratio
 ![resgistration](https://user-images.githubusercontent.com/51596372/63649582-2baca280-c761-11e9-836e-15a9747b87d9.JPG)
 
 
-5.	Payment Verification
+5.	<H5>Payment Page</H5>
+
+![payment](https://user-images.githubusercontent.com/51596372/63649643-edfc4980-c761-11e9-90df-f9fed5178724.JPG)
+
 6.	Bkash Payment
 7.	User Authentication
 
