@@ -43,10 +43,9 @@
 ## 1. Introduction:
 The NSU Parking Registration system (NPS) is a website that enables user to online registration for parking in North South University. It also allows the user to see their profile. It is developed for removing the difficulty of registration for  parking in NSU , People just go through this website and easily registered himself for parking. The system is developed for North South University people, therefore the project aimed at solving such problems (registration, payment) by designing a web based system that will enable the user to make registration of NPS (NSU Parking Registration system).
 
-## Project details:
+## 2. Project Summary:
 
-In this project we are going to build a website such as “NSU Parking Registration system” so that user visits this website and do registration in online. User will fill up a form for registration like as parking registration form which will be provided by the website. User will fill up this form and submit it. After submission the authority (security department, parking operator) will verify all data which is given by the user. After verification user receives an email notification for deposit the amount (which is mention in the form section) in the bank (In this case user have to use NSU email account for registration). This website also has a payment section , after verification user can payment parking fees or registration amount which is mention in the registration form.
-At this moment if we need to register in NSU parking, we need to fill up registration form manually. That is because we do not have any website for parking registration and payment. After this project is completed, we can do parking registration and payment in online.
+In this project we are try to build a website such as “NSU Parking Registration system” (NPS) so that user visits this website and do registration in online. User will fill up a form for registration like as parking registration form which will be provided by the website. User will fill up this form and submit it. After submission the authority (security department, parking operator) will verify all data which is given by the user. After verification user receives an email notification for deposit the amount (which is mention in the form section) in the bank (In this case user have to use NSU email account for registration). This website also has a payment section , after verification user can payment parking fees or registration amount which is mention in the registration form.
 
 ## Features:
 
