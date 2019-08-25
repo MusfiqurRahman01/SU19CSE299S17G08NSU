@@ -131,18 +131,18 @@
 
 <div class="form-group">
  <label for="formGroupVehicleInput">Vehicle Reg. No</label>
- <input type="text" class="form-control" id="formGroupDepartmentInput" placeholder="Registration number of vehicle to be parked">
+ <input type="text" class="form-control" name="vehicle_reg" id="formGroupDepartmentInput" placeholder="Registration number of vehicle to be parked">
 </div>
 
 <div class="form-group">
  <label for="formGroupCarInfoInput">Car Info</label>
- <input class="form-control form-control-lg" type="text" placeholder="e.g model, color, etc">
+ <input class="form-control form-control-lg" type="text" name="car_info" placeholder="e.g model, color, etc">
 </div>
 
 
 <div class="form-group">
  <label for="formGroupAddressInput">Address</label>
- <input class="form-control form-control-lg" type="text" placeholder="Details address of Student/Employee/Vendor including mobile number">
+ <input class="form-control form-control-lg" type="text" name="address"placeholder="Details address of Student/Employee/Vendor including mobile number">
 </div>
 
 <div class="form-group">
@@ -153,7 +153,7 @@
      <span class="input-group-text">Driving license Photocopy</span>
    </div>
    <div class="custom-file">
-     <input type="file" class="custom-file-input" id="inputGroupFile01">
+     <input type="file" class="custom-file-input" name="dlicense" id="inputGroupFile01">
      <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
    </div>
  </div>
@@ -164,7 +164,7 @@
      <span class="input-group-text">PP Size Photograph</span>
    </div>
    <div class="custom-file">
-     <input type="file" class="custom-file-input" id="inputGroupFile01">
+     <input type="file" class="custom-file-input" name="pphoto" id="inputGroupFile01">
      <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
    </div>
  </div>
@@ -174,7 +174,7 @@
      <span class="input-group-text">ID card Photocopy</span>
    </div>
    <div class="custom-file">
-     <input type="file" class="custom-file-input" id="inputGroupFile01">
+     <input type="file" class="custom-file-input" name="iphoto" id="inputGroupFile01">
      <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
    </div>
  </div>
