@@ -50,16 +50,19 @@ In this project we are try to build a website such as “NSU Parking Registratio
 ## 3. Project Description:
 
 - <H4>Features</H4>
-1. User Login page
+1. <H5>User Login page</H5>
 
 ![User log in](https://user-images.githubusercontent.com/51596372/63649449-b68c9d80-c75f-11e9-930b-ac503ba8d30e.JPG)
 
-2.	Admin Panel
+2.	<H5>Admin Panel</H5>
 
-![admin](https://user-images.githubusercontent.com/51596372/63649499-39155d00-c760-11e9-8fd3-31bdd3c95d9a.JPG) 
+![admin](https://user-images.githubusercontent.com/51596372/63649499-39155d00-c760-11e9-8fd3-31bdd3c95d9a.JPG)
 
-3.	Google API Implementation
-4.	Form filling
+3.	<H5>Parking Registration Form </H5>
+
+![resgistration](https://user-images.githubusercontent.com/51596372/63649582-2baca280-c761-11e9-836e-15a9747b87d9.JPG)
+
+
 5.	Payment Verification
 6.	Bkash Payment
 7.	User Authentication
