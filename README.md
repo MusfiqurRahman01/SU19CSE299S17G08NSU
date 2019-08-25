@@ -49,7 +49,7 @@ In this project we are try to build a website such as “NSU Parking Registratio
 
 ## 3. Project Description:
 
-- <H4>Features</H4>
+### Features
 1. <H5>User Login page</H5>
 
 ![User log in](https://user-images.githubusercontent.com/51596372/63649449-b68c9d80-c75f-11e9-930b-ac503ba8d30e.JPG)
@@ -75,7 +75,7 @@ In this project we are try to build a website such as “NSU Parking Registratio
 
 ![About](https://user-images.githubusercontent.com/51596372/63649685-7e3a8e80-c762-11e9-8c76-4f34ea80c1ee.JPG)
 
-- <H4>Technology</H4>:
+### Technology:
 
 This project will be Web-Based application.
 
@@ -97,7 +97,7 @@ This project will be Web-Based application.
 2.	Git
 
 
-- <H4>Roadblocks:</H4>:
+### Roadblocks:
 
 
 ## Business plan:
