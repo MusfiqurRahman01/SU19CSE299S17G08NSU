@@ -51,11 +51,13 @@ In this project we are try to build a website such as “NSU Parking Registratio
 
 - <H4>Features</H4>
 1. User Login page
+
 ![User log in](https://user-images.githubusercontent.com/51596372/63649449-b68c9d80-c75f-11e9-930b-ac503ba8d30e.JPG)
 
+2.	Admin Panel
 
-1.	User Login
-2.	Admin Login
+![admin](https://user-images.githubusercontent.com/51596372/63649499-39155d00-c760-11e9-8fd3-31bdd3c95d9a.JPG) 
+
 3.	Google API Implementation
 4.	Form filling
 5.	Payment Verification
