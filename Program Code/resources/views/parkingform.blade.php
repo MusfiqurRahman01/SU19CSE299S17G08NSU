@@ -104,7 +104,7 @@
 
  <div class="form-check">
 
-   <input class="form-check-input" type="radio" name="exampleRadios" id="semester" value="summer" checked>
+   <input class="form-check-input" type="radio" name="semester" id="exampleRadios1" value="summer" checked>
    <label class="form-check-label" for="exampleRadios1">
      Summer
    </label>
