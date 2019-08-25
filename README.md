@@ -47,7 +47,9 @@ The NSU Parking Registration system (NPS) is a website that enables user to onli
 
 In this project we are try to build a website such as “NSU Parking Registration system” (NPS) so that user visits this website and do registration in online. User will fill up a form for registration like as parking registration form which will be provided by the website. User will fill up this form and submit it. After submission the authority (security department, parking operator) will verify all data which is given by the user. After verification user receives an email notification for deposit the amount (which is mention in the form section) in the bank (In this case user have to use NSU email account for registration). This website also has a payment section , after verification user can payment parking fees or registration amount which is mention in the registration form.
 
-## Features:
+## 3. Project Description:
+
+- <H4>Features</H4>
 
 1.	User Login
 2.	Admin Login
