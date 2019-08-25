@@ -104,7 +104,7 @@
 
  <div class="form-check">
 
-   <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+   <input class="form-check-input" type="radio" name="exampleRadios" id="semester" value="summer" checked>
    <label class="form-check-label" for="exampleRadios1">
      Summer
    </label>
@@ -112,7 +112,7 @@
 
 <div class="form-check">
 
-  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+  <input class="form-check-input" type="radio" name="semester" id="exampleRadios1" value="winter" checked>
   <label class="form-check-label" for="exampleRadios1">
     Spring
   </label>
@@ -120,7 +120,7 @@
 
     <div class="form-check">
 
-      <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+      <input class="form-check-input" type="radio" name="semester" id="exampleRadios1" value="fall" checked>
       <label class="form-check-label" for="exampleRadios1">
         Fall
       </label>
