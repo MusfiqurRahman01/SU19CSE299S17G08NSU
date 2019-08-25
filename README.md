@@ -75,25 +75,30 @@ In this project we are try to build a website such as “NSU Parking Registratio
 
 ![About](https://user-images.githubusercontent.com/51596372/63649685-7e3a8e80-c762-11e9-8c76-4f34ea80c1ee.JPG)
 
-## Technology:
+- <H4>Technology</H4>:
+
 This project will be Web-Based application.
 
-### For Front-end
+<H5> For Front-end </H5>
 
 1.	Html
 2.	Css
 3.	Javascript
 4.	Bootstrap
 
-### For Back-end
+<H5> For Back-end </H5>
 
 1.	Laravel Framework
 2.	MySql DBMS
 
-### For Project Management
+<H5> For Project Management </H5>
 
 1.	Github
 2.	Git
+
+
+- <H4>Roadblocks:</H4>:
+
 
 ## Business plan:
 
