@@ -15,7 +15,9 @@ class UsersController extends Controller
             'last_name'=>'required',
             'password'=>'required'
         ]);
-        User::create($info);
+       $user= User::create($info);
+       
+       return view('user',compact('user'));
     }
     public function show(User $user){
         
