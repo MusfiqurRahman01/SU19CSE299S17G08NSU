@@ -110,6 +110,9 @@ We are not able to implement some features. That is because this project has so 
 
 ## 4. Business plan:
 
-1. Business Concept: We want to develop a software based on the parking automation system. The purpose is to design a system that is easy to register and pay easily without any difficulty for the parking system. This website also has a payment section , after verification user can payment parking fees or registration amount(by using Bkash, Bank Transfer, Credit card) which is mention in the registration form.
-2. Potential: As the current registration system for parking vehicles is manual, our project has great potential to do well.
-3. Sales: Every semester, there are a lot of NSU students, staffs, faculties needed to be register for parking .They have to collect form, pay money ,submit it to the chairman for 4 month approval .It takes  a lot of time and work to done. So, we can build a software that can remove all the difficulties .This system can be added on the NSU RDS system or user can pay a small amount to use the software.
+1. <H5>Business Concept:</H5>
+We want to develop a software based on the parking automation system. The purpose is to design a system that is easy to register and pay easily without any difficulty for the parking system. This website also has a payment section , after verification user can payment parking fees or registration amount(by using Bkash, Bank Transfer, Credit card) which is mention in the registration form.
+2. <H5>Potential:</H5>
+ As the current registration system for parking vehicles is manual, our project has great potential to do well.
+3.<H5> Sales:</H5>
+Every semester, there are a lot of NSU students, staffs, faculties needed to be register for parking .They have to collect form, pay money ,submit it to the chairman for 4 month approval .It takes  a lot of time and work to done. So, we can build a software that can remove all the difficulties .This system can be added on the NSU RDS system or user can pay a small amount to use the software.
