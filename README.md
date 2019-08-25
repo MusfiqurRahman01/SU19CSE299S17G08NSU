@@ -122,6 +122,6 @@ We are not able to implement some features. That is because this project has so 
 
 ## 5. Reference links:
 
-### Github project repository: https://github.com/MusfiqurRahman01/SU19CSE299S17G08NSU
+###   Github project repository: https://github.com/MusfiqurRahman01/SU19CSE299S17G08NSU
 
-### Slack channel: https://app.slack.com/client/TKDJD0XGV/GK9J645C3
+###   Slack channel: https://app.slack.com/client/TKDJD0XGV/GK9J645C3
