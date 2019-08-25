@@ -91,11 +91,13 @@ This project will be Web-Based application.
 
 1.	Laravel Framework
 2.	MySql DBMS
+3.  Eloquent Model
 
 <H5> For Project Management </H5>
 
 1.	Github
 2.	Git
+3.  Slack
 
 
 ### - Roadblocks:
