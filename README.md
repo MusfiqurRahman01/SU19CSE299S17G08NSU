@@ -118,3 +118,10 @@ We are not able to implement some features. That is because this project has so 
 
 3. <H5> Sales:</H5>
    Every semester, there are a lot of NSU students, staffs, faculties needed to be register for parking .They have to collect form, pay money ,submit it to the chairman for 4 month approval .It takes  a lot of time and work to done. So, we can build a software that can remove all the difficulties .This system can be added on the NSU RDS system or user can pay a small amount to use the software.
+
+
+## 5. Reference links:
+
+### Github project repository: https://github.com/MusfiqurRahman01/SU19CSE299S17G08NSU
+
+### Slack channel: https://app.slack.com/client/TKDJD0XGV/GK9J645C3
