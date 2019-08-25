@@ -117,7 +117,7 @@ We are not able to implement some features. That is because this project has so 
    Current registration system for parking vehicles in North South university is manual.We want to build a project that brings  everythings online in one single website.It will save time and effort for everyone.So, this parking project has great potential to do well in the current situation.
 
 3. <H5> Sales:</H5>
-   Every semester, there are a lot of NSU students, staffs, faculties needed to be register for parking .They have to collect form, pay money ,submit it to the chairman for 4 month approval .It takes  a lot of time and work to done. So, we can build a software that can remove all the difficulties .This system can be added on the NSU RDS system or user can pay a small amount to use the software.
+   Every semester, there are a lot of NSU students, staffs, faculties needed to be register for parking .They have to collect form, pay money ,submit it to the chairman for 4 month approval .It takes  a lot of time and work to done. So, we can build a software that can remove all the difficulties .We will integrate bkash payment system within the software as well as mastercard and bank transfer system .To use the software the user will pay money for every 4 months using the bkash payment system.
 
 
 ## 5. Reference links:
