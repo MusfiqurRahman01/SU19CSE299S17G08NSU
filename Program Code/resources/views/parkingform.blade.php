@@ -185,7 +185,7 @@
 </div>
 
 
-<p>Signature of the Applicant<input type="file" class="form-control-file" id="exampleFormControlFile1"></p>
+<p>Signature of the Applicant<input type="file" class="form-control-file" name="signature" id="exampleFormControlFile1"></p>
 <button type="button" class="btn btn-primary">Submit Form</button>
 
 </form>

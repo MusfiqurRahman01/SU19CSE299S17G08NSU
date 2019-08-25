@@ -21,6 +21,14 @@ class CreateSubscriptionsTable extends Migration
             $table->string('prefix');
             $table->string('department');
             $table->string('contact');
+            $table->string('semester');
+            $table->string('vehicle_reg');
+            $table->string('car_info');
+            $table->string('address');
+            $table->binary('dlicense');
+            $table->binary('pphoto');
+            $table->binary('iphoto');
+            $table->binary('signature');
             $table->timestamps();
         });
     }
