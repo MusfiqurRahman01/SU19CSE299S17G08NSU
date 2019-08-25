@@ -38,7 +38,8 @@
 - Features
 - Technology
 - Roadblocks
-4. <H4> Reference links </H4>
+4. <H4> Business plan </H4>
+5. <H4> Reference links </H4>
 
 ## 1. Introduction:
 The NSU Parking Registration system (NPS) is a website that enables user to online registration for parking in North South University. It also allows the user to see their profile. It is developed for removing the difficulty of registration for  parking in NSU , People just go through this website and easily registered himself for parking. The system is developed for North South University people, therefore the project aimed at solving such problems (registration, payment) by designing a web based system that will enable the user to make registration of NPS (NSU Parking Registration system).
@@ -98,17 +99,17 @@ This project will be Web-Based application.
 
 
 ### - Roadblocks:
-We are not able to implement some features. That is because this project has so many features and we do not have enough time to implement those. Another reason is our lack of knowledge in such things like API implementation , payment verification and user authentications. So we do research on those topic and study but because of the time limitation we unable to implement those critical features -
+We are not able to implement some features. That is because this project has so many features and we do not have enough time to implement those. Another reason is our lack of knowledge in such things like API implementation , payment verification and user authentications. So we do research on those topics and study but because of the time limitation we unable to implement those critical features -
 
 - <H6> Google API Implementation </H6>
 - <H6> Payment Verification </H6>
 - <H6> Bkash Payment </H6>
-- <H6> User Authentication </H6> 
+- <H6> User Authentication </H6>
 
 
 
-## Business plan:
+## 4. Business plan:
 
-1. Business Concept: We want to develop a software based on the parking automation system. The purpose is to design a system that is easy to register and pay easily without any difficulty for the parking system.
+1. Business Concept: We want to develop a software based on the parking automation system. The purpose is to design a system that is easy to register and pay easily without any difficulty for the parking system. This website also has a payment section , after verification user can payment parking fees or registration amount(by using Bkash, Bank Transfer, Credit card) which is mention in the registration form.
 2. Potential: As the current registration system for parking vehicles is manual, our project has great potential to do well.
 3. Sales: Every semester, there are a lot of NSU students, staffs, faculties needed to be register for parking .They have to collect form, pay money ,submit it to the chairman for 4 month approval .It takes  a lot of time and work to done. So, we can build a software that can remove all the difficulties .This system can be added on the NSU RDS system or user can pay a small amount to use the software.
