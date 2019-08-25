@@ -98,6 +98,13 @@ This project will be Web-Based application.
 
 
 ### - Roadblocks:
+We are not able to implement some features. That is because this project has so many features and we do not have enough time to implement those. Another reason is our lack of knowledge in such things like API implementation , payment verification and user authentications. So we do research on those topic and study but because of the time limitation we unable to implement those critical features -
+
+- <H6> Google API Implementation </H6>
+- <H6> Payment Verification </H6>
+- <H6> Bkash Payment </H6>
+- <H6> User Authentication </H6> 
+
 
 
 ## Business plan:
