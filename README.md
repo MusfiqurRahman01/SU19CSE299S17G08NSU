@@ -33,6 +33,11 @@
 
 ## Table of contents:
 1. <H4> Introduction </H4>
+2. <H4> Project Summary </H4>
+3. <H4> Project Description </H4>
+        - Features
+        - Technology
+        - Roadblocks
 
 
 
