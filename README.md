@@ -41,6 +41,7 @@
 4. <H4> Reference links </H4>
 
 ## 1.Introduction:
+The NSU Parking Registration system (NPS) is a website that enables user to online registration for parking in North South University. It also allows the user to see their profile. It is developed for removing the difficulty of registration for  parking in NSU , People just go through this website and easily registered himself for parking. The system is developed for North South University Peoples, therefore the project aimed at solving such problems (registration, payment) by designing a web based system that will enable the use to make registration of NPS (NSU Parking Registration system).
 
 ## Project details:
 
