@@ -65,6 +65,7 @@
 
 
 <form action="/subscribe" method="POST">
+  @csrf
  <div class="form-group">
    <label for="exampleInputdate">Date:</label>
    <input type="date" class="form-control" name="date" id="exampleInputdate"  placeholder="Enter date">

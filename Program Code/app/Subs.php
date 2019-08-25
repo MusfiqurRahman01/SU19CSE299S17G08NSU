@@ -7,6 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 class Subs extends Model
 {
     protected $fillable = [
-        'first_name','last_name', 'email', 'password',
+        'user_name','user_id', 'vehicle_reg', 
     ];
 }
