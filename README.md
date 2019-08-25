@@ -63,12 +63,17 @@ In this project we are try to build a website such as “NSU Parking Registratio
 ![resgistration](https://user-images.githubusercontent.com/51596372/63649582-2baca280-c761-11e9-836e-15a9747b87d9.JPG)
 
 
-5.	<H5>Payment Page</H5>
+4.	<H5>Payment Page</H5>
 
 ![payment](https://user-images.githubusercontent.com/51596372/63649643-edfc4980-c761-11e9-90df-f9fed5178724.JPG)
 
-6.	Bkash Payment
-7.	User Authentication
+5.	<H5> Contact us page </H5>
+
+![contact](https://user-images.githubusercontent.com/51596372/63649673-619e5680-c762-11e9-9dd9-58433afe6e41.JPG)
+
+6.	<H5> About us page </H5>
+
+![About](https://user-images.githubusercontent.com/51596372/63649685-7e3a8e80-c762-11e9-8c76-4f34ea80c1ee.JPG)
 
 ## Technology:
 This project will be Web-Based application.
