@@ -32,7 +32,8 @@
 
 
 ## Table of contents:
-- Introduction
+1. Introduction
+
 
 
 ## Project details:
