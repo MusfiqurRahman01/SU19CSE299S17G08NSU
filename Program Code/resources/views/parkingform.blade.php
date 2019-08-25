@@ -67,33 +67,33 @@
 <form>
  <div class="form-group">
    <label for="exampleInputdate">Date:</label>
-   <input type="date" class="form-control" id="exampleInputdate"  placeholder="Enter date">
+   <input type="date" class="form-control" name="date" id="exampleInputdate"  placeholder="Enter date">
 
  </div>
 
  <div class="form-group">
   <label for="formGroupApplicant'sNameInput">Applicant's Name</label>
-  <input type="text" class="form-control" id="formGroupApplicant'sNameInput" placeholder="Name of applicant">
+  <input type="text" class="form-control" name="user_name" id="formGroupApplicant'sNameInput" placeholder="Name of applicant">
 </div>
 
 <div class="form-group">
  <label for="formGroupIDNoInput">ID No</label>
- <input type="text" class="form-control" id="formGroupIDNoInput" placeholder="Student/Employee ID">
+ <input type="text" class="form-control" name="user_id" id="formGroupIDNoInput" placeholder="Student/Employee ID">
 </div>
 
 <div class="form-group">
  <label for="formGroupDesignationInput">Designation</label>
- <input type="text" class="form-control" id="formGroupDesignationInput" placeholder="Designation of Student/Employee">
+ <input type="text" class="form-control" name="prefix" id="formGroupDesignationInput" placeholder="Designation of Student/Employee">
 </div>
 
 <div class="form-group">
  <label for="formGroupDepartmentInput">Department</label>
- <input type="text" class="form-control" id="formGroupDepartmentInput" placeholder="Department of Student/Employee">
+ <input type="text" class="form-control" name="department" d="formGroupDepartmentInput" placeholder="Department of Student/Employee">
 </div>
 
 <div class="form-group">
  <label for="formGroupContactNumberInput">Contact Number</label>
- <input type="text" class="form-control" id="formGroupContactNumberInput" placeholder="Contact Number of Student/Employee">
+ <input type="text" class="form-control" name="contact" id="formGroupContactNumberInput" placeholder="Contact Number of Student/Employee">
 </div>
 
 
