@@ -75,7 +75,7 @@ In this project we are try to build a website such as “NSU Parking Registratio
 
 ![About](https://user-images.githubusercontent.com/51596372/63649685-7e3a8e80-c762-11e9-8c76-4f34ea80c1ee.JPG)
 
-### Technology:
+### - Technology:
 
 This project will be Web-Based application.
 
@@ -97,7 +97,7 @@ This project will be Web-Based application.
 2.	Git
 
 
-### Roadblocks:
+### - Roadblocks:
 
 
 ## Business plan:
