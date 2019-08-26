@@ -39,7 +39,7 @@
 - Technology
 - Roadblocks
 4. <H4> Business plan </H4>
-5. <H4> Reference links </H4>
+5. <H4> Links </H4>
 
 ## 1. Introduction:
 The NSU Parking Registration system (NPS) is a website that enables user to online registration for parking in North South University. It also allows the user to see their profile. It is developed for removing the difficulty of registration for  parking in NSU , People just go through this website and easily registered himself for parking. The system is developed for North South University people, therefore the project aimed at solving such problems (registration, payment) by designing a web based system that will enable the user to make registration of NPS (NSU Parking Registration system).
@@ -122,7 +122,7 @@ We are not able to implement some features. That is because this project has so 
    Every semester, there are a lot of NSU students, staffs, faculties needed to be register for parking .They have to collect form, pay money ,submit it to the chairman for 4 month approval .It takes  a lot of time and work to done. So, we can build a software that can remove all the difficulties .We will integrate bkash payment system within the software as well as mastercard and bank transfer system .To use the software the user will pay money for every 4 months using the bkash payment system.
 
 
-## 5. Reference links:
+## 5. Links:
 
 ###   Github project repository: https://github.com/MusfiqurRahman01/SU19CSE299S17G08NSU
 
